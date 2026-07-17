@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: 9769fece0a889cc43b6c7789972368c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2062590472532519458
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_0
+  - first:
+      213: 8439746148804639398
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_1
+  - first:
+      213: -3535742819591670920
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_2
+  - first:
+      213: 6376486271984719423
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_3
+  - first:
+      213: 8711516455631162469
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_4
+  - first:
+      213: 5289070171457739781
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_5
+  - first:
+      213: -8193401358912563388
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_6
+  - first:
+      213: 67812601214188959
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_7
+  - first:
+      213: 2233119197381795737
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_8
+  - first:
+      213: -695051593488258789
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_9
+  - first:
+      213: -3948739821698135903
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_10
+  - first:
+      213: -5448346238886042421
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_11
+  - first:
+      213: -479086057951164644
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_12
+  - first:
+      213: 4533515445762688923
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_13
+  - first:
+      213: -4197355965704618081
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_14
+  - first:
+      213: 5476864245417424372
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_15
+  - first:
+      213: -6310271753173915108
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_16
+  - first:
+      213: -3282383698836259831
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_17
+  - first:
+      213: 8992675796448173906
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_18
+  - first:
+      213: 7644898210257538936
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_19
+  - first:
+      213: -7221521122230912943
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_20
+  - first:
+      213: -7766911850420291201
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_21
+  - first:
+      213: 2423341963286194152
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_22
+  - first:
+      213: 5344353022999820181
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_23
+  - first:
+      213: -5908283250672099962
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_24
+  - first:
+      213: 3679419632524602441
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_25
+  - first:
+      213: -630884128758364374
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_26
+  - first:
+      213: 6975009308124616239
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_27
+  - first:
+      213: -1080571563373522882
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_28
+  - first:
+      213: 7326148335409109704
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_29
+  - first:
+      213: 3635794781979853164
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_30
+  - first:
+      213: 594608024075181102
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_31
+  - first:
+      213: -1916753543036202707
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_32
+  - first:
+      213: -8544801402629210110
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_33
+  - first:
+      213: 4410934929403682124
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_34
+  - first:
+      213: -1591988487466151496
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_35
+  - first:
+      213: -9211531142983083257
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_36
+  - first:
+      213: -7843530684802439185
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_37
+  - first:
+      213: -1012055291515406690
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_38
+  - first:
+      213: 8071316963858769253
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_39
+  - first:
+      213: 8710865423380480830
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_40
+  - first:
+      213: 25683162962231174
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_41
+  - first:
+      213: 9196533794533477386
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_42
+  - first:
+      213: 7373555161723381388
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_43
+  - first:
+      213: -6696622803122483805
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_44
+  - first:
+      213: 2847912209271258050
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_45
+  - first:
+      213: -1451826079705100530
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_46
+  - first:
+      213: -569585408375516987
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_47
+  - first:
+      213: 6310708352451306761
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_48
+  - first:
+      213: -7235685425166788800
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_49
+  - first:
+      213: -9169844634466656811
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_50
+  - first:
+      213: 1585053430062076963
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_51
+  - first:
+      213: 7573948789855422454
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_52
+  - first:
+      213: -1616183377117071760
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_53
+  - first:
+      213: -8256039476376574892
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_54
+  - first:
+      213: 6696603654537653625
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_55
+  - first:
+      213: 565685367297066431
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_56
+  - first:
+      213: -7929914088603683702
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_57
+  - first:
+      213: 6662255917171846555
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_58
+  - first:
+      213: -6733301301576901367
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_59
+  - first:
+      213: -3103593980406437494
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_60
+  - first:
+      213: 3517004212415690492
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_61
+  - first:
+      213: 5858372121616317360
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_62
+  - first:
+      213: 4659247143847819945
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_63
+  - first:
+      213: 7900941149658478806
+    second: PC _ Computer - Brotato - Miscellaneous - Title Screen_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2153
+        width: 2063
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ae7605b1bcf9c10800000000000000
+      internalID: 2062590472532519458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_1
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2322
+        width: 593
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab8f91860002570800000000000000
+      internalID: 8439746148804639398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_2
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 2348
+        width: 2085
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b91583a48eeec0800000000000000
+      internalID: -3535742819591670920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1061
+        width: 2061
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ddc4fa74dd7850800000000000000
+      internalID: 6376486271984719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_4
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1409
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8dd09f0685e870800000000000000
+      internalID: 8711516455631162469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_5
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1085
+        width: 2056
+        height: 685
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5ad95c4d866940800000000000000
+      internalID: 5289070171457739781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44750d3efd03b4e80800000000000000
+      internalID: -8193401358912563388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_7
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 1079
+        width: 2085
+        height: 1082
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dbaa6933be0f000800000000000000
+      internalID: 67812601214188959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_9
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 637
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19209d124eaa56f0800000000000000
+      internalID: -695051593488258789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_10
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 635
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84e31bd024339c0800000000000000
+      internalID: -3948739821698135903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_11
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 748
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4acd956f59364b0800000000000000
+      internalID: -5448346238886042421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_12
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 635
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c178af2c4c1f959f0800000000000000
+      internalID: -479086057951164644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_13
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 635
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978e6047484aee30800000000000000
+      internalID: 4533515445762688923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_14
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 635
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3f4cdcfeffb5c0800000000000000
+      internalID: -4197355965704618081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_15
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 748
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b427730bb10c40800000000000000
+      internalID: 5476864245417424372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 414
+        width: 1050
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a23e316496d68a0800000000000000
+      internalID: -6310271753173915108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_17
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 635
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf45eaa61a272d0800000000000000
+      internalID: -3282383698836259831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 635
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fdb8bddf66ccc70800000000000000
+      internalID: 8992675796448173906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_19
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 635
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f8b66fa62281a60800000000000000
+      internalID: 7644898210257538936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_20
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 635
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583273fcc008cb90800000000000000
+      internalID: -7221521122230912943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_21
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 637
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f793de9a2d2663490800000000000000
+      internalID: -7766911850420291201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_22
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 637
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7a8fa1da071a120800000000000000
+      internalID: 2423341963286194152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_23
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 605
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597703242c4fa2a40800000000000000
+      internalID: 5344353022999820181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_24
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 605
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9c4bdfaf810ea0800000000000000
+      internalID: -5908283250672099962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_25
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 635
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2a3059acef0330800000000000000
+      internalID: 3679419632524602441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_26
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 600
+        width: 114
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a270dea3a36ae37f0800000000000000
+      internalID: -630884128758364374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_27
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 637
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f269fc3b2063cc060800000000000000
+      internalID: 6975009308124616239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_28
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 635
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309bb263e90101f0800000000000000
+      internalID: -1080571563373522882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_29
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 637
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca11ef6815bba560800000000000000
+      internalID: 7326148335409109704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_30
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 635
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c0284710f47230800000000000000
+      internalID: 3635794781979853164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_31
+      rect:
+        serializedVersion: 2
+        x: 5011
+        y: 637
+        width: 163
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c1997f8d8704800800000000000000
+      internalID: 594608024075181102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_32
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 635
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211b59dec25665e0800000000000000
+      internalID: -1916753543036202707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_33
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 635
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c6088564ca6980800000000000000
+      internalID: -8544801402629210110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_34
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 637
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d187ab2f9c63d30800000000000000
+      internalID: 4410934929403682124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_35
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 635
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19116c7ee18e9e0800000000000000
+      internalID: -1591988487466151496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_36
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 423
+        width: 32
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9b01fa311a2080800000000000000
+      internalID: -9211531142983083257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_37
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 423
+        width: 66
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe76973266e262390800000000000000
+      internalID: -7843530684802439185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_38
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 421
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e967b20131574f1f0800000000000000
+      internalID: -1012055291515406690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_39
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 534
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e264d304130070800000000000000
+      internalID: 8071316963858769253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_40
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 421
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3383de43f533e870800000000000000
+      internalID: 8710865423380480830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_41
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 534
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f721d53be3b5000800000000000000
+      internalID: 25683162962231174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_42
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 421
+        width: 62
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c0b04c2c6a0af70800000000000000
+      internalID: 9196533794533477386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_43
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 421
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8625425a51245660800000000000000
+      internalID: 7373555161723381388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_44
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 423
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8a117a01d013a0800000000000000
+      internalID: -6696622803122483805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_45
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 423
+        width: 31
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7c11c011d58720800000000000000
+      internalID: 2847912209271258050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_46
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 421
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f87836fd31adbe0800000000000000
+      internalID: -1451826079705100530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_47
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 423
+        width: 66
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01880c61d6818f0800000000000000
+      internalID: -569585408375516987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_48
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 534
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90563fc9fc3249750800000000000000
+      internalID: 6310708352451306761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_49
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 423
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047567e217ea59b90800000000000000
+      internalID: -7235685425166788800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_50
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 421
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd71d83ea2eb080800000000000000
+      internalID: -9169844634466656811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_51
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 421
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245dd852bd3ff510800000000000000
+      internalID: 1585053430062076963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_52
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 421
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7055ebb421c1960800000000000000
+      internalID: 7573948789855422454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_53
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 385
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bb0b08c92299e0800000000000000
+      internalID: -1616183377117071760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_54
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 423
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e8fea6d7ac6d80800000000000000
+      internalID: -8256039476376574892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_55
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 419
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dac4e2b8d1fec50800000000000000
+      internalID: 6696603654537653625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_56
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 421
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c06c28d7b9d700800000000000000
+      internalID: 565685367297066431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_57
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 421
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a847961a62943f190800000000000000
+      internalID: -7929914088603683702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_58
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 423
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da5c16576157c50800000000000000
+      internalID: 6662255917171846555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_59
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 421
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d55d904228e82a0800000000000000
+      internalID: -6733301301576901367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_60
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 423
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8965d6e7b1dde4d0800000000000000
+      internalID: -3103593980406437494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_61
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 421
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f69282b8eec030800000000000000
+      internalID: 3517004212415690492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_62
+      rect:
+        serializedVersion: 2
+        x: 4990
+        y: 421
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbfdf6d76e1d4150800000000000000
+      internalID: 5858372121616317360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_63
+      rect:
+        serializedVersion: 2
+        x: 5321
+        y: 423
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7dc17798f8a040800000000000000
+      internalID: 4659247143847819945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Brotato - Miscellaneous - Title Screen_64
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 421
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f8a85d18c5ad60800000000000000
+      internalID: 7900941149658478806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a325450c7899c8d4e886cd2ae4b3ccb9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_0: 2062590472532519458
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_1: 8439746148804639398
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_10: -3948739821698135903
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_11: -5448346238886042421
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_12: -479086057951164644
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_13: 4533515445762688923
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_14: -4197355965704618081
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_15: 5476864245417424372
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_16: -6310271753173915108
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_17: -3282383698836259831
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_18: 8992675796448173906
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_19: 7644898210257538936
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_2: -3535742819591670920
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_20: -7221521122230912943
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_21: -7766911850420291201
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_22: 2423341963286194152
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_23: 5344353022999820181
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_24: -5908283250672099962
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_25: 3679419632524602441
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_26: -630884128758364374
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_27: 6975009308124616239
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_28: -1080571563373522882
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_29: 7326148335409109704
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_3: 6376486271984719423
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_30: 3635794781979853164
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_31: 594608024075181102
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_32: -1916753543036202707
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_33: -8544801402629210110
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_34: 4410934929403682124
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_35: -1591988487466151496
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_36: -9211531142983083257
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_37: -7843530684802439185
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_38: -1012055291515406690
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_39: 8071316963858769253
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_4: 8711516455631162469
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_40: 8710865423380480830
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_41: 25683162962231174
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_42: 9196533794533477386
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_43: 7373555161723381388
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_44: -6696622803122483805
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_45: 2847912209271258050
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_46: -1451826079705100530
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_47: -569585408375516987
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_48: 6310708352451306761
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_49: -7235685425166788800
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_5: 5289070171457739781
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_50: -9169844634466656811
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_51: 1585053430062076963
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_52: 7573948789855422454
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_53: -1616183377117071760
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_54: -8256039476376574892
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_55: 6696603654537653625
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_56: 565685367297066431
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_57: -7929914088603683702
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_58: 6662255917171846555
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_59: -6733301301576901367
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_6: -8193401358912563388
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_60: -3103593980406437494
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_61: 3517004212415690492
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_62: 5858372121616317360
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_63: 4659247143847819945
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_64: 7900941149658478806
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_7: 67812601214188959
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_8: 2233119197381795737
+      PC _ Computer - Brotato - Miscellaneous - Title Screen_9: -695051593488258789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

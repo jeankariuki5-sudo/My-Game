@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 0e15940a963189a409265a44d14218be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7765154001768077764
+    second: weaponsandfaces_0
+  - first:
+      213: 7732905978336541453
+    second: weaponsandfaces_1
+  - first:
+      213: -5476432050756284703
+    second: weaponsandfaces_2
+  - first:
+      213: 2015862054180853688
+    second: weaponsandfaces_3
+  - first:
+      213: -5911706826864951379
+    second: weaponsandfaces_4
+  - first:
+      213: -222776714984983529
+    second: weaponsandfaces_5
+  - first:
+      213: 5398044759936116221
+    second: weaponsandfaces_6
+  - first:
+      213: 562383655207759784
+    second: weaponsandfaces_7
+  - first:
+      213: -6948244256098727339
+    second: weaponsandfaces_8
+  - first:
+      213: -2755455170635033453
+    second: weaponsandfaces_9
+  - first:
+      213: -4378403648054326569
+    second: weaponsandfaces_10
+  - first:
+      213: -2991543322862265159
+    second: weaponsandfaces_11
+  - first:
+      213: -3944663831302994076
+    second: weaponsandfaces_12
+  - first:
+      213: -3322453675356127385
+    second: weaponsandfaces_13
+  - first:
+      213: 8908246230896460760
+    second: weaponsandfaces_14
+  - first:
+      213: 515148224178158749
+    second: weaponsandfaces_15
+  - first:
+      213: 2594126767449557085
+    second: weaponsandfaces_16
+  - first:
+      213: 1890677258042695236
+    second: weaponsandfaces_17
+  - first:
+      213: 746625693651756386
+    second: weaponsandfaces_18
+  - first:
+      213: 2463416318306357094
+    second: weaponsandfaces_19
+  - first:
+      213: -1182218011275843925
+    second: weaponsandfaces_20
+  - first:
+      213: -1835967929132809028
+    second: weaponsandfaces_21
+  - first:
+      213: 1531074437863208439
+    second: weaponsandfaces_22
+  - first:
+      213: -7192839756420386722
+    second: weaponsandfaces_23
+  - first:
+      213: -7635995318345516219
+    second: weaponsandfaces_24
+  - first:
+      213: -7247632438605002553
+    second: weaponsandfaces_25
+  - first:
+      213: 2842784158224471124
+    second: weaponsandfaces_26
+  - first:
+      213: 1766730818238846501
+    second: weaponsandfaces_27
+  - first:
+      213: -8177607507342611676
+    second: weaponsandfaces_28
+  - first:
+      213: 6854773450877027442
+    second: weaponsandfaces_29
+  - first:
+      213: -8944506864611240566
+    second: weaponsandfaces_30
+  - first:
+      213: -4521153967858625615
+    second: weaponsandfaces_31
+  - first:
+      213: -6605285622451261349
+    second: weaponsandfaces_32
+  - first:
+      213: 2022572678523831889
+    second: weaponsandfaces_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weaponsandfaces_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5a9e9237eb76d0800000000000000
+      internalID: -2991543322862265159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 355
+        width: 125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678ad8252db149c0800000000000000
+      internalID: -3944663831302994076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 350
+        width: 128
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c92cfc80300420800000000000000
+      internalID: 2594126767449557085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_17
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 311
+        width: 198
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5b8ee2f80d3a10800000000000000
+      internalID: 1890677258042695236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 343
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6a5de7bfae79fe0800000000000000
+      internalID: -1182218011275843925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_22
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 313
+        width: 195
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f57489d6187f3510800000000000000
+      internalID: 1531074437863208439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 341
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507140d956ed2c90800000000000000
+      internalID: -7192839756420386722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_25
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 346
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c95a52bc3b6b90800000000000000
+      internalID: -7247632438605002553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 177
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d3145129937720800000000000000
+      internalID: 2842784158224471124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 54
+        width: 230
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269cd29150b48810800000000000000
+      internalID: 1766730818238846501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 187
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba6448c4d438e80800000000000000
+      internalID: -8177607507342611676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 39
+        width: 48
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274cd4ba22c012f50800000000000000
+      internalID: 6854773450877027442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_30
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 19
+        width: 79
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ddcb856abed380800000000000000
+      internalID: -8944506864611240566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_31
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 48
+        width: 138
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b350fa9b62a141c0800000000000000
+      internalID: -4521153967858625615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_32
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 5
+        width: 163
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b503cc109bf4554a0800000000000000
+      internalID: -6605285622451261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weaponsandfaces_33
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 55
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c2d3922f911c10800000000000000
+      internalID: 2022572678523831889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 163e13f493905074bbbe245bf4414093
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weaponsandfaces_0: 7765154001768077764
+      weaponsandfaces_1: 7732905978336541453
+      weaponsandfaces_10: -4378403648054326569
+      weaponsandfaces_11: -2991543322862265159
+      weaponsandfaces_12: -3944663831302994076
+      weaponsandfaces_13: -3322453675356127385
+      weaponsandfaces_14: 8908246230896460760
+      weaponsandfaces_15: 515148224178158749
+      weaponsandfaces_16: 2594126767449557085
+      weaponsandfaces_17: 1890677258042695236
+      weaponsandfaces_18: 746625693651756386
+      weaponsandfaces_19: 2463416318306357094
+      weaponsandfaces_2: -5476432050756284703
+      weaponsandfaces_20: -1182218011275843925
+      weaponsandfaces_21: -1835967929132809028
+      weaponsandfaces_22: 1531074437863208439
+      weaponsandfaces_23: -7192839756420386722
+      weaponsandfaces_24: -7635995318345516219
+      weaponsandfaces_25: -7247632438605002553
+      weaponsandfaces_26: 2842784158224471124
+      weaponsandfaces_27: 1766730818238846501
+      weaponsandfaces_28: -8177607507342611676
+      weaponsandfaces_29: 6854773450877027442
+      weaponsandfaces_3: 2015862054180853688
+      weaponsandfaces_30: -8944506864611240566
+      weaponsandfaces_31: -4521153967858625615
+      weaponsandfaces_32: -6605285622451261349
+      weaponsandfaces_33: 2022572678523831889
+      weaponsandfaces_4: -5911706826864951379
+      weaponsandfaces_5: -222776714984983529
+      weaponsandfaces_6: 5398044759936116221
+      weaponsandfaces_7: 562383655207759784
+      weaponsandfaces_8: -6948244256098727339
+      weaponsandfaces_9: -2755455170635033453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

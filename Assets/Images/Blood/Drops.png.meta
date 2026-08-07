@@ -1,0 +1,7735 @@
+fileFormatVersion: 2
+guid: f5b7450dbc869bb4293412fcb22e056b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4564899823668317575
+    second: Drops_0
+  - first:
+      213: 6749907094918187561
+    second: Drops_1
+  - first:
+      213: -2040057753640575754
+    second: Drops_2
+  - first:
+      213: 5622005364771165601
+    second: Drops_3
+  - first:
+      213: 2932976599428820663
+    second: Drops_4
+  - first:
+      213: -9079316033098101434
+    second: Drops_5
+  - first:
+      213: 8635073058422094168
+    second: Drops_6
+  - first:
+      213: -6271463838131770281
+    second: Drops_7
+  - first:
+      213: -5053603655189359966
+    second: Drops_8
+  - first:
+      213: -8467297485008542599
+    second: Drops_9
+  - first:
+      213: -4895250967894139491
+    second: Drops_10
+  - first:
+      213: -4122307979089051681
+    second: Drops_11
+  - first:
+      213: 2971070864069610107
+    second: Drops_12
+  - first:
+      213: 2341555465026553454
+    second: Drops_13
+  - first:
+      213: -8161826048819229783
+    second: Drops_14
+  - first:
+      213: -1992790289841023989
+    second: Drops_15
+  - first:
+      213: 8887526200236816707
+    second: Drops_16
+  - first:
+      213: 3890824214634564367
+    second: Drops_17
+  - first:
+      213: 2031033738655468842
+    second: Drops_18
+  - first:
+      213: 9034793690088592890
+    second: Drops_19
+  - first:
+      213: -6977398284594683440
+    second: Drops_20
+  - first:
+      213: 2465617748320619673
+    second: Drops_21
+  - first:
+      213: 3676660841407216301
+    second: Drops_22
+  - first:
+      213: 5559910682625447615
+    second: Drops_23
+  - first:
+      213: -6643435775803488345
+    second: Drops_24
+  - first:
+      213: 4842208411975763481
+    second: Drops_25
+  - first:
+      213: 6937987321057093273
+    second: Drops_26
+  - first:
+      213: -3298769091169141563
+    second: Drops_27
+  - first:
+      213: 268183552923652317
+    second: Drops_28
+  - first:
+      213: -3670125956630946895
+    second: Drops_29
+  - first:
+      213: 4345170812474071799
+    second: Drops_30
+  - first:
+      213: 3905544137865767692
+    second: Drops_31
+  - first:
+      213: 3106482394414742534
+    second: Drops_32
+  - first:
+      213: 5650700278944997447
+    second: Drops_33
+  - first:
+      213: -6240311972077679962
+    second: Drops_34
+  - first:
+      213: 4648812873085649553
+    second: Drops_35
+  - first:
+      213: 431200520284874171
+    second: Drops_36
+  - first:
+      213: -1896814017979010551
+    second: Drops_37
+  - first:
+      213: 4290223083918524759
+    second: Drops_38
+  - first:
+      213: -6755162482719972539
+    second: Drops_39
+  - first:
+      213: -8996688271885213370
+    second: Drops_40
+  - first:
+      213: -3042599616599955820
+    second: Drops_41
+  - first:
+      213: 3842998297862040229
+    second: Drops_42
+  - first:
+      213: 2935312623259804904
+    second: Drops_43
+  - first:
+      213: -2905146596699944904
+    second: Drops_44
+  - first:
+      213: 797128881791920337
+    second: Drops_45
+  - first:
+      213: 6887353556266862081
+    second: Drops_46
+  - first:
+      213: 2168026686990817724
+    second: Drops_47
+  - first:
+      213: -2101328277229868712
+    second: Drops_48
+  - first:
+      213: -2764194076578423788
+    second: Drops_49
+  - first:
+      213: 7914160127174784282
+    second: Drops_50
+  - first:
+      213: -8323113405279697833
+    second: Drops_51
+  - first:
+      213: -8513301942775225448
+    second: Drops_52
+  - first:
+      213: 5508617934156356156
+    second: Drops_53
+  - first:
+      213: 666702172424249261
+    second: Drops_54
+  - first:
+      213: -2806902415711564935
+    second: Drops_55
+  - first:
+      213: -1581375064850218232
+    second: Drops_56
+  - first:
+      213: 8387676107013945399
+    second: Drops_57
+  - first:
+      213: 4518172991720744483
+    second: Drops_58
+  - first:
+      213: 533307932119495180
+    second: Drops_59
+  - first:
+      213: 7679132672722974266
+    second: Drops_60
+  - first:
+      213: 2219126643138465000
+    second: Drops_61
+  - first:
+      213: 5057750455837674626
+    second: Drops_62
+  - first:
+      213: 1817338127828387533
+    second: Drops_63
+  - first:
+      213: -4220649031609398181
+    second: Drops_64
+  - first:
+      213: -3036030817080776972
+    second: Drops_65
+  - first:
+      213: 4181474992061306910
+    second: Drops_66
+  - first:
+      213: 1801079843565777518
+    second: Drops_67
+  - first:
+      213: -4077759438538236381
+    second: Drops_68
+  - first:
+      213: -2212152205877577241
+    second: Drops_69
+  - first:
+      213: -1735253319862715415
+    second: Drops_70
+  - first:
+      213: 763633879735157920
+    second: Drops_71
+  - first:
+      213: 3804261612184120518
+    second: Drops_72
+  - first:
+      213: 3838488430549150485
+    second: Drops_73
+  - first:
+      213: 1537892542662663903
+    second: Drops_74
+  - first:
+      213: -3086337430649676456
+    second: Drops_75
+  - first:
+      213: -1605654630820599227
+    second: Drops_76
+  - first:
+      213: -8309564380981418922
+    second: Drops_77
+  - first:
+      213: 7982828143271887865
+    second: Drops_78
+  - first:
+      213: 1393637550395744911
+    second: Drops_79
+  - first:
+      213: -753333231669174310
+    second: Drops_80
+  - first:
+      213: -7711419561581862677
+    second: Drops_81
+  - first:
+      213: -4839053069192298754
+    second: Drops_82
+  - first:
+      213: 1934979612692992528
+    second: Drops_83
+  - first:
+      213: 5459601991252969388
+    second: Drops_84
+  - first:
+      213: -9111170882178920302
+    second: Drops_85
+  - first:
+      213: -5957726395031186357
+    second: Drops_86
+  - first:
+      213: 5075677272689953805
+    second: Drops_87
+  - first:
+      213: -4451914581170544010
+    second: Drops_88
+  - first:
+      213: 711093008129021081
+    second: Drops_89
+  - first:
+      213: -3978278213179242639
+    second: Drops_90
+  - first:
+      213: -3128784066571169917
+    second: Drops_91
+  - first:
+      213: 3900790654510313050
+    second: Drops_92
+  - first:
+      213: 3066630907371998497
+    second: Drops_93
+  - first:
+      213: -991355921654720502
+    second: Drops_94
+  - first:
+      213: -985795132304919731
+    second: Drops_95
+  - first:
+      213: -881433797912071973
+    second: Drops_96
+  - first:
+      213: 368647839834643112
+    second: Drops_97
+  - first:
+      213: -2535060228285651801
+    second: Drops_98
+  - first:
+      213: 4192875900336340356
+    second: Drops_99
+  - first:
+      213: 1626564646771738831
+    second: Drops_100
+  - first:
+      213: 8292323035480096174
+    second: Drops_101
+  - first:
+      213: 7894038150977133210
+    second: Drops_102
+  - first:
+      213: 543358400877251300
+    second: Drops_103
+  - first:
+      213: 6921427341365320578
+    second: Drops_104
+  - first:
+      213: 695197292468662218
+    second: Drops_105
+  - first:
+      213: 8051074445735992143
+    second: Drops_106
+  - first:
+      213: -5223358589287894117
+    second: Drops_107
+  - first:
+      213: -8282354845179855654
+    second: Drops_108
+  - first:
+      213: 3891838025935515121
+    second: Drops_109
+  - first:
+      213: -1924087650969225286
+    second: Drops_110
+  - first:
+      213: -47034808118391029
+    second: Drops_111
+  - first:
+      213: 5570995949570045370
+    second: Drops_112
+  - first:
+      213: 8686510635271606173
+    second: Drops_113
+  - first:
+      213: 2981053457278527462
+    second: Drops_114
+  - first:
+      213: -4386358746925202895
+    second: Drops_115
+  - first:
+      213: -345887231511794366
+    second: Drops_116
+  - first:
+      213: 1027097171414343295
+    second: Drops_117
+  - first:
+      213: 4609495374443023682
+    second: Drops_118
+  - first:
+      213: -6026782825776240748
+    second: Drops_119
+  - first:
+      213: 708253369283496860
+    second: Drops_120
+  - first:
+      213: -2681485475274973458
+    second: Drops_121
+  - first:
+      213: 2657882626652173158
+    second: Drops_122
+  - first:
+      213: -2573547433569660157
+    second: Drops_123
+  - first:
+      213: -7306745041528984613
+    second: Drops_124
+  - first:
+      213: -3002548947865530490
+    second: Drops_125
+  - first:
+      213: 1881096199140346835
+    second: Drops_126
+  - first:
+      213: -1011227115064977682
+    second: Drops_127
+  - first:
+      213: 3022204707943857449
+    second: Drops_128
+  - first:
+      213: 2592367263923546851
+    second: Drops_129
+  - first:
+      213: 1933870770535498049
+    second: Drops_130
+  - first:
+      213: -8691715397518189619
+    second: Drops_131
+  - first:
+      213: -5919997493301434804
+    second: Drops_132
+  - first:
+      213: -4544108009144829736
+    second: Drops_133
+  - first:
+      213: 2249464826821233555
+    second: Drops_134
+  - first:
+      213: 6057784217035548974
+    second: Drops_135
+  - first:
+      213: 1169962387649503231
+    second: Drops_136
+  - first:
+      213: -2329164344261188558
+    second: Drops_137
+  - first:
+      213: 7589291578526585139
+    second: Drops_138
+  - first:
+      213: 6214615135436598605
+    second: Drops_139
+  - first:
+      213: -8472951489036792367
+    second: Drops_140
+  - first:
+      213: -8888969172534694802
+    second: Drops_141
+  - first:
+      213: -5711576591511956094
+    second: Drops_142
+  - first:
+      213: 3304915646434641759
+    second: Drops_143
+  - first:
+      213: -6241903143902675601
+    second: Drops_144
+  - first:
+      213: 2875567186516949973
+    second: Drops_145
+  - first:
+      213: 8378512255890802390
+    second: Drops_146
+  - first:
+      213: -1624859818521364357
+    second: Drops_147
+  - first:
+      213: -5119698926211699147
+    second: Drops_148
+  - first:
+      213: -5260004514183417636
+    second: Drops_149
+  - first:
+      213: -7843235899012433726
+    second: Drops_150
+  - first:
+      213: -2883952735755964734
+    second: Drops_151
+  - first:
+      213: 7543415252998548
+    second: Drops_152
+  - first:
+      213: -505246301160396978
+    second: Drops_153
+  - first:
+      213: 7618924720564697019
+    second: Drops_154
+  - first:
+      213: 3154117114792590851
+    second: Drops_155
+  - first:
+      213: -1678129722428965817
+    second: Drops_156
+  - first:
+      213: -2979768736848826667
+    second: Drops_157
+  - first:
+      213: -7508444393744547442
+    second: Drops_158
+  - first:
+      213: 476258983386711753
+    second: Drops_159
+  - first:
+      213: 7588547667470825069
+    second: Drops_160
+  - first:
+      213: -2251100251612461180
+    second: Drops_161
+  - first:
+      213: -1875503452232016191
+    second: Drops_162
+  - first:
+      213: -5913470645268526542
+    second: Drops_163
+  - first:
+      213: 3838790167503823725
+    second: Drops_164
+  - first:
+      213: -5920541783831854508
+    second: Drops_165
+  - first:
+      213: 2073208841616045897
+    second: Drops_166
+  - first:
+      213: 8093064504242551270
+    second: Drops_167
+  - first:
+      213: -7557978477492810047
+    second: Drops_168
+  - first:
+      213: -5891301395265731392
+    second: Drops_169
+  - first:
+      213: 286125835427783094
+    second: Drops_170
+  - first:
+      213: -1941828384043868763
+    second: Drops_171
+  - first:
+      213: -834198419809314485
+    second: Drops_172
+  - first:
+      213: 2236848982880404391
+    second: Drops_173
+  - first:
+      213: 8509421612705597915
+    second: Drops_174
+  - first:
+      213: 6710868423526123047
+    second: Drops_175
+  - first:
+      213: -2955958129892710390
+    second: Drops_176
+  - first:
+      213: -6603412775709149094
+    second: Drops_177
+  - first:
+      213: -1737055976881619213
+    second: Drops_178
+  - first:
+      213: -1215373863445916564
+    second: Drops_179
+  - first:
+      213: 6964824186638342424
+    second: Drops_180
+  - first:
+      213: 7908099485801661792
+    second: Drops_181
+  - first:
+      213: 6028005740362168134
+    second: Drops_182
+  - first:
+      213: 9073798530896482302
+    second: Drops_183
+  - first:
+      213: 8904144359616268831
+    second: Drops_184
+  - first:
+      213: -4590021163591042259
+    second: Drops_185
+  - first:
+      213: -6222889543697013677
+    second: Drops_186
+  - first:
+      213: 3650737280577088512
+    second: Drops_187
+  - first:
+      213: 7519864922895098400
+    second: Drops_188
+  - first:
+      213: -7210691887247900925
+    second: Drops_189
+  - first:
+      213: -5947177119370838264
+    second: Drops_190
+  - first:
+      213: 3934744287604024187
+    second: Drops_191
+  - first:
+      213: 7528809054015128148
+    second: Drops_192
+  - first:
+      213: 6440847031440163052
+    second: Drops_193
+  - first:
+      213: -1598424555007315664
+    second: Drops_194
+  - first:
+      213: -7141383967830398547
+    second: Drops_195
+  - first:
+      213: -4594871766585490938
+    second: Drops_196
+  - first:
+      213: -7258531844716511388
+    second: Drops_197
+  - first:
+      213: -8836741088506259549
+    second: Drops_198
+  - first:
+      213: -6267787115745064273
+    second: Drops_199
+  - first:
+      213: 8641427081568341061
+    second: Drops_200
+  - first:
+      213: -3589743653691234514
+    second: Drops_201
+  - first:
+      213: 3208846307624871427
+    second: Drops_202
+  - first:
+      213: 7922834529472530695
+    second: Drops_203
+  - first:
+      213: -5183730536735347336
+    second: Drops_204
+  - first:
+      213: 5014476025584968870
+    second: Drops_205
+  - first:
+      213: 5796819250683860670
+    second: Drops_206
+  - first:
+      213: -2124808323155468595
+    second: Drops_207
+  - first:
+      213: -2792018351372434224
+    second: Drops_208
+  - first:
+      213: 4005661319547121352
+    second: Drops_209
+  - first:
+      213: -7231541144595972566
+    second: Drops_210
+  - first:
+      213: 1562214503704681846
+    second: Drops_211
+  - first:
+      213: -1871933654552839368
+    second: Drops_212
+  - first:
+      213: 4811784913636334599
+    second: Drops_213
+  - first:
+      213: 7388374278365212444
+    second: Drops_214
+  - first:
+      213: 2720130756641910403
+    second: Drops_215
+  - first:
+      213: 3265690667083237640
+    second: Drops_216
+  - first:
+      213: 2706007073354407929
+    second: Drops_217
+  - first:
+      213: 8917692852755869795
+    second: Drops_218
+  - first:
+      213: 2864654255908834380
+    second: Drops_219
+  - first:
+      213: -3069852211958814401
+    second: Drops_220
+  - first:
+      213: 454467063454793502
+    second: Drops_221
+  - first:
+      213: 7069469276649888300
+    second: Drops_222
+  - first:
+      213: 8913333847736138885
+    second: Drops_223
+  - first:
+      213: 4671801945503224112
+    second: Drops_224
+  - first:
+      213: 2055870650635146084
+    second: Drops_225
+  - first:
+      213: -2430820058902167452
+    second: Drops_226
+  - first:
+      213: -2056604787515443712
+    second: Drops_227
+  - first:
+      213: -5744701452046474645
+    second: Drops_228
+  - first:
+      213: 5618637616994634386
+    second: Drops_229
+  - first:
+      213: -3649286321695731611
+    second: Drops_230
+  - first:
+      213: 527939633664420194
+    second: Drops_231
+  - first:
+      213: 9135230914612311544
+    second: Drops_232
+  - first:
+      213: -5444165565713439677
+    second: Drops_233
+  - first:
+      213: -3211295367208062538
+    second: Drops_234
+  - first:
+      213: -6328974783842752251
+    second: Drops_235
+  - first:
+      213: 7827888404860918104
+    second: Drops_236
+  - first:
+      213: 6563003812765383220
+    second: Drops_237
+  - first:
+      213: -7530329901452531013
+    second: Drops_238
+  - first:
+      213: -4568705051217754103
+    second: Drops_239
+  - first:
+      213: -6022791138601272984
+    second: Drops_240
+  - first:
+      213: -7518440665271033088
+    second: Drops_241
+  - first:
+      213: -5906461874753711201
+    second: Drops_242
+  - first:
+      213: 5350874712614397986
+    second: Drops_243
+  - first:
+      213: 3110546804777136987
+    second: Drops_244
+  - first:
+      213: -6154479311332391161
+    second: Drops_245
+  - first:
+      213: 3495037575808198298
+    second: Drops_246
+  - first:
+      213: -8082060732925593055
+    second: Drops_247
+  - first:
+      213: 4936832960227407903
+    second: Drops_248
+  - first:
+      213: 2078694058696017277
+    second: Drops_249
+  - first:
+      213: 4518849582268620437
+    second: Drops_250
+  - first:
+      213: -1489858803234633959
+    second: Drops_251
+  - first:
+      213: 1344468957434340533
+    second: Drops_252
+  - first:
+      213: 2334467770415798020
+    second: Drops_253
+  - first:
+      213: -3773481519995366917
+    second: Drops_254
+  - first:
+      213: -1512142507204454770
+    second: Drops_255
+  - first:
+      213: -3863289110181376345
+    second: Drops_256
+  - first:
+      213: -4028308053441862352
+    second: Drops_257
+  - first:
+      213: -3763715097578814070
+    second: Drops_258
+  - first:
+      213: 1317782002120541891
+    second: Drops_259
+  - first:
+      213: 5701899887167112389
+    second: Drops_260
+  - first:
+      213: -6920894671296201650
+    second: Drops_261
+  - first:
+      213: 8066575739871589497
+    second: Drops_262
+  - first:
+      213: -3323586390628295774
+    second: Drops_263
+  - first:
+      213: -34395898292565341
+    second: Drops_264
+  - first:
+      213: 8496376628622972035
+    second: Drops_265
+  - first:
+      213: 256971873757190982
+    second: Drops_266
+  - first:
+      213: 1259549356104959928
+    second: Drops_267
+  - first:
+      213: -3550232676715074056
+    second: Drops_268
+  - first:
+      213: -4643301473891487964
+    second: Drops_269
+  - first:
+      213: 5208017989621722383
+    second: Drops_270
+  - first:
+      213: -8080550923912731918
+    second: Drops_271
+  - first:
+      213: 6916859631706367029
+    second: Drops_272
+  - first:
+      213: -7020448557498204986
+    second: Drops_273
+  - first:
+      213: -7733803980428598616
+    second: Drops_274
+  - first:
+      213: 4432974763446701710
+    second: Drops_275
+  - first:
+      213: 7239017340851025702
+    second: Drops_276
+  - first:
+      213: -8032266690738657464
+    second: Drops_277
+  - first:
+      213: -8244119095642164347
+    second: Drops_278
+  - first:
+      213: 8669457376451501531
+    second: Drops_279
+  - first:
+      213: 8017396345250927545
+    second: Drops_280
+  - first:
+      213: -1036066745914160446
+    second: Drops_281
+  - first:
+      213: 1902423391203960608
+    second: Drops_282
+  - first:
+      213: 2956070881724840979
+    second: Drops_283
+  - first:
+      213: -5139273363545239311
+    second: Drops_284
+  - first:
+      213: 8606823421232333865
+    second: Drops_285
+  - first:
+      213: -6627793678639008335
+    second: Drops_286
+  - first:
+      213: 3231456535902877668
+    second: Drops_287
+  - first:
+      213: 2741273295442512418
+    second: Drops_288
+  - first:
+      213: -8251324220191400617
+    second: Drops_289
+  - first:
+      213: 2161054683448583323
+    second: Drops_290
+  - first:
+      213: -798399764643350574
+    second: Drops_291
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drops_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 523
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4ef82438c95f30800000000000000
+      internalID: 4564899823668317575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 635
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92acc738dbc7cad50800000000000000
+      internalID: 6749907094918187561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 586
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd8f0284240b3e0800000000000000
+      internalID: -2040057753640575754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 586
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a59684b710650e40800000000000000
+      internalID: 5622005364771165601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 605
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beec777da604b820800000000000000
+      internalID: 2932976599428820663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 628
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dcda31c2acff180800000000000000
+      internalID: -9079316033098101434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 574
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8597bc03231f5d770800000000000000
+      internalID: 8635073058422094168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 596
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca27aedd847f8a0800000000000000
+      internalID: -6271463838131770281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 602
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a292d0304efdd9b0800000000000000
+      internalID: -5053603655189359966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 603
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e18e8ccd1e7a80800000000000000
+      internalID: -8467297485008542599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 583
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d584c4e23901cb0800000000000000
+      internalID: -4895250967894139491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 601
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf73a3ebbe9ac6c0800000000000000
+      internalID: -4122307979089051681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 593
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ac16f953d5b3920800000000000000
+      internalID: 2971070864069610107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 579
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6648c21a40ee7020800000000000000
+      internalID: 2341555465026553454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 588
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8999a37e5bbe80800000000000000
+      internalID: -8161826048819229783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b049d262acf2854e0800000000000000
+      internalID: -1992790289841023989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 574
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b711bdf5d65b70800000000000000
+      internalID: 8887526200236816707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 545
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b08cc320cfef530800000000000000
+      internalID: 3890824214634564367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 568
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d8467ac6eaf2c10800000000000000
+      internalID: 2031033738655468842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 585
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5dba42ef8026d70800000000000000
+      internalID: 9034793690088592890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 565
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1605e5a3d4b2f90800000000000000
+      internalID: -6977398284594683440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 513
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8c885742a73220800000000000000
+      internalID: 2465617748320619673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 565
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7aa33e8f160330800000000000000
+      internalID: 3676660841407216301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb61ac4ee45c82d40800000000000000
+      internalID: 5559910682625447615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 564
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78c1f3c56cdc3a0800000000000000
+      internalID: -6643435775803488345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 552
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916493445eaf23340800000000000000
+      internalID: 4842208411975763481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 556
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a5cf95bea84060800000000000000
+      internalID: 6937987321057093273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 506
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc33dc3dfa6832d0800000000000000
+      internalID: -3298769091169141563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 548
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0dd9e3587c8b300800000000000000
+      internalID: 268183552923652317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 554
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb521a33e7111dc0800000000000000
+      internalID: -3670125956630946895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 531
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa99ed05d52d4c30800000000000000
+      internalID: 4345170812474071799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 549
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b291073b7433630800000000000000
+      internalID: 3905544137865767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 546
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c781467417c1b20800000000000000
+      internalID: 3106482394414742534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 558
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a7ba07f15b6e40800000000000000
+      internalID: 5650700278944997447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa41b0f255f569a0800000000000000
+      internalID: -6240311972077679962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19288877da6e38040800000000000000
+      internalID: 4648812873085649553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 520
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52b8ea69eebf500800000000000000
+      internalID: 431200520284874171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 517
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902316d43b92da5e0800000000000000
+      internalID: -1896814017979010551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 539
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751052c0a2fe98b30800000000000000
+      internalID: 4290223083918524759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_39
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 524
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5432e692387d042a0800000000000000
+      internalID: -6755162482719972539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 531
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641eb57eea7552380800000000000000
+      internalID: -8996688271885213370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 531
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e1d2e4c386c5d0800000000000000
+      internalID: -3042599616599955820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_42
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 515
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa6f704792155530800000000000000
+      internalID: 3842998297862040229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_43
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 539
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4ee1667435cb820800000000000000
+      internalID: 2935312623259804904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 524
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c34bff88dea7d0800000000000000
+      internalID: -2905146596699944904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 514
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8696f9e78ff0b00800000000000000
+      internalID: 797128881791920337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 525
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064fc3919bc49f50800000000000000
+      internalID: 6887353556266862081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 526
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb997adf8c0661e10800000000000000
+      internalID: 2168026686990817724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 528
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859ea3fa01596d2e0800000000000000
+      internalID: -2101328277229868712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 502
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cdd47f12c93a9d0800000000000000
+      internalID: -2764194076578423788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 495
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1530d364beb4dd60800000000000000
+      internalID: 7914160127174784282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540305a47c5e7c80800000000000000
+      internalID: -8323113405279697833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_52
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 522
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8936d3b0dfcaad980800000000000000
+      internalID: -8513301942775225448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a5cb043da827c40800000000000000
+      internalID: 5508617934156356156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 519
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf145ee71a904900800000000000000
+      internalID: 666702172424249261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 514
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8350ef11eb09d0800000000000000
+      internalID: -2806902415711564935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 489
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80341fac1c3dd0ae0800000000000000
+      internalID: -1581375064850218232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 489
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f891caf2076470800000000000000
+      internalID: 8387676107013945399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 375
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326674dc566c3be30800000000000000
+      internalID: 4518172991720744483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 511
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0271e91db0b66700800000000000000
+      internalID: 533307932119495180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36bfb4ea72c19a60800000000000000
+      internalID: 7679132672722974266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 513
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8fdbacebebce10800000000000000
+      internalID: 2219126643138465000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 515
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c46c21e3db03640800000000000000
+      internalID: 5057750455837674626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 519
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc60cf9066b783910800000000000000
+      internalID: 1817338127828387533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 497
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4355511e3d65c0800000000000000
+      internalID: -4220649031609398181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 489
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e2c4be0addd5d0800000000000000
+      internalID: -3036030817080776972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 501
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e185ef2d955970a30800000000000000
+      internalID: 4181474992061306910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 498
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62badf3398bef810800000000000000
+      internalID: 1801079843565777518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 467
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e9e624563e867c0800000000000000
+      internalID: -4077759438538236381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 451
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f19b0a4bdc41e0800000000000000
+      internalID: -2212152205877577241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf342ac442be7e0800000000000000
+      internalID: -1735253319862715415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 470
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4411cb7f8f89a00800000000000000
+      internalID: 763633879735157920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_72
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 458
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca3eac7c37bc430800000000000000
+      internalID: 3804261612184120518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 499
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2451f3ec054530800000000000000
+      internalID: 3838488430549150485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 476
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde51249e11b75510800000000000000
+      internalID: 1537892542662663903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 472
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d522d75702b25d0800000000000000
+      internalID: -3086337430649676456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 490
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a2af1de9197b9e0800000000000000
+      internalID: -1605654630820599227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 457
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6542d51b83f7eac80800000000000000
+      internalID: -8309564380981418922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 481
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f346b6c6e3b8ce60800000000000000
+      internalID: 7982828143271887865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ebf0e7f1375310800000000000000
+      internalID: 1393637550395744911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 466
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9cd8ca6f9b85f0800000000000000
+      internalID: -753333231669174310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 445
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be02aedf3c88bf490800000000000000
+      internalID: -7711419561581862677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe77893fda38dcb0800000000000000
+      internalID: -4839053069192298754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 466
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012503ea4bd6ada10800000000000000
+      internalID: 1934979612692992528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_84
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 496
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca706a7b51764cb40800000000000000
+      internalID: 5459601991252969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_85
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 452
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d7df0b5e9e8180800000000000000
+      internalID: -9111170882178920302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_86
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 486
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44923bb867e15da0800000000000000
+      internalID: -5957726395031186357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 506
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4531669d607640800000000000000
+      internalID: 5075677272689953805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_88
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 500
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a2f2964f9732c0800000000000000
+      internalID: -4451914581170544010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_89
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 457
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945bc7c25f4ed900800000000000000
+      internalID: 711093008129021081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_90
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 509
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17786cdfa015ac8c0800000000000000
+      internalID: -3978278213179242639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_91
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 460
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f8f1de7735494d0800000000000000
+      internalID: -3128784066571169917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_92
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 295
+        width: 68
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e2049de64622630800000000000000
+      internalID: 3900790654510313050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_93
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 469
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4423009cde8a20800000000000000
+      internalID: 3066630907371998497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_94
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 494
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a085acbaa0ffd32f0800000000000000
+      internalID: -991355921654720502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_95
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f7a5dc80c152f0800000000000000
+      internalID: -985795132304919731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_96
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 484
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07d6e71a484c3f0800000000000000
+      internalID: -881433797912071973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_97
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 435
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa1f84d143bd1500800000000000000
+      internalID: 368647839834643112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_98
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 466
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a420d85728a1dcd0800000000000000
+      internalID: -2535060228285651801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 487
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df7d2aa66103a30800000000000000
+      internalID: 4192875900336340356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c907ade7b29610800000000000000
+      internalID: 1626564646771738831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 421
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead749cbddf341370800000000000000
+      internalID: 8292323035480096174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 417
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a9f58bfd14d8d60800000000000000
+      internalID: 7894038150977133210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_103
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 458
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea430636956a8700800000000000000
+      internalID: 543358400877251300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_104
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 445
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b91c4ee79dd0060800000000000000
+      internalID: 6921427341365320578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_105
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 450
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf68621146d5a900800000000000000
+      internalID: 695197292468662218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 445
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b915e4d892bbf60800000000000000
+      internalID: 8051074445735992143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_107
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 445
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93720f9907e287b0800000000000000
+      internalID: -5223358589287894117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 439
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcb15d662a2f0d80800000000000000
+      internalID: -8282354845179855654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 452
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd6e339016920630800000000000000
+      internalID: 3891838025935515121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_110
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab77347c9744c45e0800000000000000
+      internalID: -1924087650969225286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_111
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 450
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f460a5716e85ff0800000000000000
+      internalID: -47034808118391029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 425
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5334bbc47205d40800000000000000
+      internalID: 5570995949570045370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_113
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 414
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f4401566fac8870800000000000000
+      internalID: 8686510635271606173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_114
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 422
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e769893354de5920800000000000000
+      internalID: 2981053457278527462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_115
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328818a5f58023c0800000000000000
+      internalID: -4386358746925202895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 420
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d65614569233bf0800000000000000
+      internalID: -345887231511794366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 374
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed5f38f6bf04e00800000000000000
+      internalID: 1027097171414343295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_118
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 427
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8b73fe9738ff30800000000000000
+      internalID: 4609495374443023682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_119
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ae2383f09c5ca0800000000000000
+      internalID: -6026782825776240748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_120
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 438
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bcd17dfa834d900800000000000000
+      internalID: 708253369283496860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_121
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 412
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee9dd7da2379cad0800000000000000
+      internalID: -2681485475274973458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_122
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 439
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f848ba22b2e420800000000000000
+      internalID: 2657882626652173158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_123
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 385
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30356719e3ce84cd0800000000000000
+      internalID: -2573547433569660157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_124
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 419
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb6157f81a399a90800000000000000
+      internalID: -7306745041528984613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_125
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 421
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f80cdd3adc456d0800000000000000
+      internalID: -3002548947865530490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_126
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0912d60ffa1a10800000000000000
+      internalID: 1881096199140346835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 421
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee61f4beb4667f1f0800000000000000
+      internalID: -1011227115064977682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_128
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 415
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92db1876b2701f920800000000000000
+      internalID: 3022204707943857449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_129
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 423
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa385aa40f9f320800000000000000
+      internalID: 2592367263923546851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_130
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 418
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141874f383d76da10800000000000000
+      internalID: 1933870770535498049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_131
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 412
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb922a85e2d06780800000000000000
+      internalID: -8691715397518189619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_132
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 410
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46a09435a1f7dda0800000000000000
+      internalID: -5919997493301434804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_133
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 412
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83ae567d510f0c0800000000000000
+      internalID: -4544108009144829736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_134
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b4a618754b73f10800000000000000
+      internalID: 2249464826821233555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_135
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 410
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e292f5e56a2911450800000000000000
+      internalID: 6057784217035548974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_136
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 386
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff9a64c79a8c3010800000000000000
+      internalID: 1169962387649503231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_137
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2346ecc8e552dafd0800000000000000
+      internalID: -2329164344261188558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_138
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 379
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d0fa1b74925960800000000000000
+      internalID: 7589291578526585139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_139
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 386
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de67b0a8fbe3650800000000000000
+      internalID: 6214615135436598605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_140
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 397
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd48d823870a6a80800000000000000
+      internalID: -8472951489036792367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_141
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 368
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ceba322a904a480800000000000000
+      internalID: -8888969172534694802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_142
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 393
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2855e7be9576cb0b0800000000000000
+      internalID: -5711576591511956094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_143
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 409
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570e5e254b6ddd20800000000000000
+      internalID: 3304915646434641759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_144
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 408
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d7941692e4069a0800000000000000
+      internalID: -6241903143902675601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_145
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 398
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbc18ee1118e720800000000000000
+      internalID: 2875567186516949973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_146
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 391
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c0a66184764470800000000000000
+      internalID: 8378512255890802390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_147
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 401
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b787a3b9a965379e0800000000000000
+      internalID: -1624859818521364357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_148
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 361
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee332b3fc23f8b0800000000000000
+      internalID: -5119698926211699147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_149
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0752753c5b007b0800000000000000
+      internalID: -5260004514183417636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_150
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 372
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b5cd418a372390800000000000000
+      internalID: -7843235899012433726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_151
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 375
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceef3444442af7d0800000000000000
+      internalID: -2883952735755964734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995c8a32bcca1000800000000000000
+      internalID: 7543415252998548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_153
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47214f7a210df8f0800000000000000
+      internalID: -505246301160396978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_154
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb773b3aaabdbb960800000000000000
+      internalID: 7618924720564697019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e313ffdcca5cb20800000000000000
+      internalID: 3154117114792590851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_156
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb89798e516b8e0800000000000000
+      internalID: -1678129722428965817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 168
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deaf4f0f1cb5a6d0800000000000000
+      internalID: -2979768736848826667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 107
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e814517fa95acc790800000000000000
+      internalID: -7508444393744547442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_159
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 150
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68ad5a5030c9600800000000000000
+      internalID: 476258983386711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b7b0d5efef4960800000000000000
+      internalID: 7588547667470825069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c8dc7f3c72c0e0800000000000000
+      internalID: -2251100251612461180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_162
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce11ba0c8fd8f5e0800000000000000
+      internalID: -1875503452232016191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 216
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac11f67c12feda0800000000000000
+      internalID: -5913470645268526542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_164
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63e35d815f164530800000000000000
+      internalID: 3838790167503823725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_165
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45248d0bd9206dda0800000000000000
+      internalID: -5920541783831854508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_166
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94739b5057485cc10800000000000000
+      internalID: 2073208841616045897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_167
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 231
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e933b7a947505070800000000000000
+      internalID: 8093064504242551270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_168
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce4efc5e9aac1790800000000000000
+      internalID: -7557978477492810047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_169
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 97
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c44c6e2894ed3ea0800000000000000
+      internalID: -5891301395265731392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 217
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12cbd6ee588f300800000000000000
+      internalID: 286125835427783094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_171
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad5b4a7f5d3d05e0800000000000000
+      internalID: -1941828384043868763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_172
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d21bf4f45c64f0800000000000000
+      internalID: -834198419809314485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_173
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3c7c07c42ea0f10800000000000000
+      internalID: 2236848982880404391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 186
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd949553fd9871670800000000000000
+      internalID: 8509421612705597915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_175
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72609a6864bc12d50800000000000000
+      internalID: 6710868423526123047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_176
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 150
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0821d00eb35af6d0800000000000000
+      internalID: -2955958129892710390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_177
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58749e1117fb54a0800000000000000
+      internalID: -6603412775709149094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7007daccb4e7e0800000000000000
+      internalID: -1737055976881619213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_179
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64130819ef122fe0800000000000000
+      internalID: -1215373863445916564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_180
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39
+        width: 20
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81990af42b608a060800000000000000
+      internalID: 6964824186638342424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_181
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 154
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06548ab55963fbd60800000000000000
+      internalID: 7908099485801661792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6477d4a7847c7a350800000000000000
+      internalID: 6028005740362168134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 87
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effcb8550bb9ced70800000000000000
+      internalID: 9073798530896482302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_184
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac9bf6e10e19b70800000000000000
+      internalID: 8904144359616268831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_185
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b71a81218fc40c0800000000000000
+      internalID: -4590021163591042259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_186
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35462772eead3a9a0800000000000000
+      internalID: -6222889543697013677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 43
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ca219d6360aa230800000000000000
+      internalID: 3650737280577088512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_188
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02225103e4deb5860800000000000000
+      internalID: 7519864922895098400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_189
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 271
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3cc3bee97eeb90800000000000000
+      internalID: -7210691887247900925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_190
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff19f5be1677da0800000000000000
+      internalID: -5947177119370838264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_191
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a2a815150b9630800000000000000
+      internalID: 3934744287604024187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_192
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 244
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452015ef1f3bb7860800000000000000
+      internalID: 7528809054015128148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_193
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 101
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0ce91004c726950800000000000000
+      internalID: 6440847031440163052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_194
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f686065141d9e0800000000000000
+      internalID: -1598424555007315664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_195
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9acc03e15b4ec90800000000000000
+      internalID: -7141383967830398547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_196
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 284
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6024334197cbb30c0800000000000000
+      internalID: -4594871766585490938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_197
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 207
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbfcc9eb3844b90800000000000000
+      internalID: -7258531844716511388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_198
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 141
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75c7f8cc69d5580800000000000000
+      internalID: -8836741088506259549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 174
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faace3e83d85409a0800000000000000
+      internalID: -6267787115745064273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_200
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c425d75248ce770800000000000000
+      internalID: 8641427081568341061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_201
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 182
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27650f8a2bae2ec0800000000000000
+      internalID: -3589743653691234514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_202
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306edc037bc188c20800000000000000
+      internalID: 3208846307624871427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_203
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c86f070093fd60800000000000000
+      internalID: 7922834529472530695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_204
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d6b8a9a80bf08b0800000000000000
+      internalID: -5183730536735347336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_205
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a464bf906ff69540800000000000000
+      internalID: 5014476025584968870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_206
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb658284560727050800000000000000
+      internalID: 5796819250683860670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_207
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce568a761a2382e0800000000000000
+      internalID: -2124808323155468595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_208
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d403182a12c049d0800000000000000
+      internalID: -2792018351372434224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_209
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 152
+        width: 88
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee02a4fb7f69730800000000000000
+      internalID: 4005661319547121352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_210
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 212
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3cb1b4a764ab90800000000000000
+      internalID: -7231541144595972566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_211
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd74c60d91ea510800000000000000
+      internalID: 1562214503704681846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_212
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 272
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b7745524e8506e0800000000000000
+      internalID: -1871933654552839368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_213
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 232
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c90e092e4e6c240800000000000000
+      internalID: 4811784913636334599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_214
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f6799c247c88660800000000000000
+      internalID: 7388374278365212444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_215
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6144e288dfb520800000000000000
+      internalID: 2720130756641910403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_216
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090ecdfb50125d20800000000000000
+      internalID: 3265690667083237640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_217
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffdbfe981bad8520800000000000000
+      internalID: 2706007073354407929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_218
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 114
+        width: 67
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360bd80d66202cb70800000000000000
+      internalID: 8917692852755869795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_219
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 237
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc1cf3edb41c720800000000000000
+      internalID: 2864654255908834380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_220
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f396f319da1b565d0800000000000000
+      internalID: -3069852211958814401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_221
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 59
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7657e2679e4600800000000000000
+      internalID: 454467063454793502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_222
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a1149f9dccb1260800000000000000
+      internalID: 7069469276649888300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_223
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 216
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c37ced8e582bb70800000000000000
+      internalID: 8913333847736138885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_224
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d2befd1395d040800000000000000
+      internalID: 4671801945503224112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_225
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 12
+        width: 227
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463524bd67be78c10800000000000000
+      internalID: 2055870650635146084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_226
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 294
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600e34190ef34ed0800000000000000
+      internalID: -2430820058902167452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_227
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00636c497d87573e0800000000000000
+      internalID: -2056604787515443712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_228
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 173
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6269125778b640b0800000000000000
+      internalID: -5744701452046474645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_229
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 296
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29acc92d42969fd40800000000000000
+      internalID: 5618637616994634386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_230
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 239
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56052a7dc612b5dc0800000000000000
+      internalID: -3649286321695731611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_231
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 89
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ea67bc4e935700800000000000000
+      internalID: 527939633664420194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_232
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 196
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f532a6cd1cd6ce70800000000000000
+      internalID: 9135230914612311544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_233
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ac3d23407274b0800000000000000
+      internalID: -5444165565713439677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_234
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b4b0b0ef2f63d0800000000000000
+      internalID: -3211295367208062538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_235
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e5a867f6fa28a0800000000000000
+      internalID: -6328974783842752251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_236
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 257
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595221c70f32ac60800000000000000
+      internalID: 7827888404860918104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_237
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a3a670239741b50800000000000000
+      internalID: 6563003812765383220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_238
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba6b6e1ad4ee7790800000000000000
+      internalID: -7530329901452531013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_239
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90802a246f2b890c0800000000000000
+      internalID: -4568705051217754103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_240
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 245
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869fc4b9e5fba6ca0800000000000000
+      internalID: -6022791138601272984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_241
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032ba1ac0229a790800000000000000
+      internalID: -7518440665271033088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_242
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93daebf738080ea0800000000000000
+      internalID: -5906461874753711201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_243
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22860037330224a40800000000000000
+      internalID: 5350874712614397986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_244
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b7fba6d1ea2b20800000000000000
+      internalID: 3110546804777136987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_245
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ca869ca5e69aa0800000000000000
+      internalID: -6154479311332391161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_246
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 145
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a0be582ed08030800000000000000
+      internalID: 3495037575808198298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_247
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a36d08590c6df80800000000000000
+      internalID: -8082060732925593055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_248
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f187bcdbb67238440800000000000000
+      internalID: 4936832960227407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_249
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758a45ab3109dc10800000000000000
+      internalID: 2078694058696017277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_250
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1b80d0cd26be30800000000000000
+      internalID: 4518849582268620437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_251
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 237
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91706b3ef45f25be0800000000000000
+      internalID: -1489858803234633959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_252
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 208
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e96bb46388a210800000000000000
+      internalID: 1344468957434340533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_253
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075b339112b56020800000000000000
+      internalID: 2334467770415798020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_254
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 123
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1dc22ec86e1abc0800000000000000
+      internalID: -3773481519995366917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_255
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e865f40c66ac30be0800000000000000
+      internalID: -1512142507204454770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_256
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 180
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae010bd507d26ac0800000000000000
+      internalID: -3863289110181376345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_257
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a0c41b239818c0800000000000000
+      internalID: -4028308053441862352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_258
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854a0d4f0994cbc0800000000000000
+      internalID: -3763715097578814070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_259
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 140
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c64ccfbfb3b94210800000000000000
+      internalID: 1317782002120541891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_260
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 153
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48f67ccb7312f40800000000000000
+      internalID: 5701899887167112389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_261
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cfe7507fa04ff90800000000000000
+      internalID: -6920894671296201650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_262
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 166
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97474d895eb32ff60800000000000000
+      internalID: 8066575739871589497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_263
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 177
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab174e69cf30e1d0800000000000000
+      internalID: -3323586390628295774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_264
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 231
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8a8cdc1dc58ff0800000000000000
+      internalID: -34395898292565341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_265
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 296
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d00b278139e570800000000000000
+      internalID: 8496376628622972035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_266
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 211
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b5094ce82f09300800000000000000
+      internalID: 256971873757190982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_267
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 218
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b745bb4771da7110800000000000000
+      internalID: 1259549356104959928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_268
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde962c03a0bbec0800000000000000
+      internalID: -3550232676715074056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_269
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f66a729edaf8fb0800000000000000
+      internalID: -4643301473891487964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_270
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 214
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d2f3fa4c8964840800000000000000
+      internalID: 5208017989621722383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_271
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22abe4fbd1cdf80800000000000000
+      internalID: -8080550923912731918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_272
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 89
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e81d103f9dff50800000000000000
+      internalID: 6916859631706367029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_273
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc7a6e9b3b529e90800000000000000
+      internalID: -7020448557498204986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_274
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a22d0851420ca490800000000000000
+      internalID: -7733803980428598616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_275
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e03897f07158d30800000000000000
+      internalID: 4432974763446701710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_276
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 78
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277154eae7267460800000000000000
+      internalID: 7239017340851025702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_277
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 263
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e1556008a78090800000000000000
+      internalID: -8032266690738657464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_278
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583fb3a9c51079d80800000000000000
+      internalID: -8244119095642164347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_279
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 106
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd18c61d89105870800000000000000
+      internalID: 8669457376451501531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_280
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3523e7f73834f60800000000000000
+      internalID: 8017396345250927545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_281
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca013ea8c62f91f0800000000000000
+      internalID: -1036066745914160446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_282
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272b1daef3c66a10800000000000000
+      internalID: 1902423391203960608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_283
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 275
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb5141ec2160920800000000000000
+      internalID: 2956070881724840979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_284
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0524ada12ada8b0800000000000000
+      internalID: -5139273363545239311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_285
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 243
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c01bfc44917770800000000000000
+      internalID: 8606823421232333865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_286
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 164
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5742cc3c85504a0800000000000000
+      internalID: -6627793678639008335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_287
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fa91399078dc20800000000000000
+      internalID: 3231456535902877668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_288
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 215
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a8d1fc985fa0620800000000000000
+      internalID: 2741273295442512418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_289
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 114
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1ae0d6586d7d80800000000000000
+      internalID: -8251324220191400617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_290
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a52be8cb9dfd10800000000000000
+      internalID: 2161054683448583323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drops_291
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 199
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77da7e4a38be4f0800000000000000
+      internalID: -798399764643350574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Drops_0: 4564899823668317575
+      Drops_1: 6749907094918187561
+      Drops_10: -4895250967894139491
+      Drops_100: 1626564646771738831
+      Drops_101: 8292323035480096174
+      Drops_102: 7894038150977133210
+      Drops_103: 543358400877251300
+      Drops_104: 6921427341365320578
+      Drops_105: 695197292468662218
+      Drops_106: 8051074445735992143
+      Drops_107: -5223358589287894117
+      Drops_108: -8282354845179855654
+      Drops_109: 3891838025935515121
+      Drops_11: -4122307979089051681
+      Drops_110: -1924087650969225286
+      Drops_111: -47034808118391029
+      Drops_112: 5570995949570045370
+      Drops_113: 8686510635271606173
+      Drops_114: 2981053457278527462
+      Drops_115: -4386358746925202895
+      Drops_116: -345887231511794366
+      Drops_117: 1027097171414343295
+      Drops_118: 4609495374443023682
+      Drops_119: -6026782825776240748
+      Drops_12: 2971070864069610107
+      Drops_120: 708253369283496860
+      Drops_121: -2681485475274973458
+      Drops_122: 2657882626652173158
+      Drops_123: -2573547433569660157
+      Drops_124: -7306745041528984613
+      Drops_125: -3002548947865530490
+      Drops_126: 1881096199140346835
+      Drops_127: -1011227115064977682
+      Drops_128: 3022204707943857449
+      Drops_129: 2592367263923546851
+      Drops_13: 2341555465026553454
+      Drops_130: 1933870770535498049
+      Drops_131: -8691715397518189619
+      Drops_132: -5919997493301434804
+      Drops_133: -4544108009144829736
+      Drops_134: 2249464826821233555
+      Drops_135: 6057784217035548974
+      Drops_136: 1169962387649503231
+      Drops_137: -2329164344261188558
+      Drops_138: 7589291578526585139
+      Drops_139: 6214615135436598605
+      Drops_14: -8161826048819229783
+      Drops_140: -8472951489036792367
+      Drops_141: -8888969172534694802
+      Drops_142: -5711576591511956094
+      Drops_143: 3304915646434641759
+      Drops_144: -6241903143902675601
+      Drops_145: 2875567186516949973
+      Drops_146: 8378512255890802390
+      Drops_147: -1624859818521364357
+      Drops_148: -5119698926211699147
+      Drops_149: -5260004514183417636
+      Drops_15: -1992790289841023989
+      Drops_150: -7843235899012433726
+      Drops_151: -2883952735755964734
+      Drops_152: 7543415252998548
+      Drops_153: -505246301160396978
+      Drops_154: 7618924720564697019
+      Drops_155: 3154117114792590851
+      Drops_156: -1678129722428965817
+      Drops_157: -2979768736848826667
+      Drops_158: -7508444393744547442
+      Drops_159: 476258983386711753
+      Drops_16: 8887526200236816707
+      Drops_160: 7588547667470825069
+      Drops_161: -2251100251612461180
+      Drops_162: -1875503452232016191
+      Drops_163: -5913470645268526542
+      Drops_164: 3838790167503823725
+      Drops_165: -5920541783831854508
+      Drops_166: 2073208841616045897
+      Drops_167: 8093064504242551270
+      Drops_168: -7557978477492810047
+      Drops_169: -5891301395265731392
+      Drops_17: 3890824214634564367
+      Drops_170: 286125835427783094
+      Drops_171: -1941828384043868763
+      Drops_172: -834198419809314485
+      Drops_173: 2236848982880404391
+      Drops_174: 8509421612705597915
+      Drops_175: 6710868423526123047
+      Drops_176: -2955958129892710390
+      Drops_177: -6603412775709149094
+      Drops_178: -1737055976881619213
+      Drops_179: -1215373863445916564
+      Drops_18: 2031033738655468842
+      Drops_180: 6964824186638342424
+      Drops_181: 7908099485801661792
+      Drops_182: 6028005740362168134
+      Drops_183: 9073798530896482302
+      Drops_184: 8904144359616268831
+      Drops_185: -4590021163591042259
+      Drops_186: -6222889543697013677
+      Drops_187: 3650737280577088512
+      Drops_188: 7519864922895098400
+      Drops_189: -7210691887247900925
+      Drops_19: 9034793690088592890
+      Drops_190: -5947177119370838264
+      Drops_191: 3934744287604024187
+      Drops_192: 7528809054015128148
+      Drops_193: 6440847031440163052
+      Drops_194: -1598424555007315664
+      Drops_195: -7141383967830398547
+      Drops_196: -4594871766585490938
+      Drops_197: -7258531844716511388
+      Drops_198: -8836741088506259549
+      Drops_199: -6267787115745064273
+      Drops_2: -2040057753640575754
+      Drops_20: -6977398284594683440
+      Drops_200: 8641427081568341061
+      Drops_201: -3589743653691234514
+      Drops_202: 3208846307624871427
+      Drops_203: 7922834529472530695
+      Drops_204: -5183730536735347336
+      Drops_205: 5014476025584968870
+      Drops_206: 5796819250683860670
+      Drops_207: -2124808323155468595
+      Drops_208: -2792018351372434224
+      Drops_209: 4005661319547121352
+      Drops_21: 2465617748320619673
+      Drops_210: -7231541144595972566
+      Drops_211: 1562214503704681846
+      Drops_212: -1871933654552839368
+      Drops_213: 4811784913636334599
+      Drops_214: 7388374278365212444
+      Drops_215: 2720130756641910403
+      Drops_216: 3265690667083237640
+      Drops_217: 2706007073354407929
+      Drops_218: 8917692852755869795
+      Drops_219: 2864654255908834380
+      Drops_22: 3676660841407216301
+      Drops_220: -3069852211958814401
+      Drops_221: 454467063454793502
+      Drops_222: 7069469276649888300
+      Drops_223: 8913333847736138885
+      Drops_224: 4671801945503224112
+      Drops_225: 2055870650635146084
+      Drops_226: -2430820058902167452
+      Drops_227: -2056604787515443712
+      Drops_228: -5744701452046474645
+      Drops_229: 5618637616994634386
+      Drops_23: 5559910682625447615
+      Drops_230: -3649286321695731611
+      Drops_231: 527939633664420194
+      Drops_232: 9135230914612311544
+      Drops_233: -5444165565713439677
+      Drops_234: -3211295367208062538
+      Drops_235: -6328974783842752251
+      Drops_236: 7827888404860918104
+      Drops_237: 6563003812765383220
+      Drops_238: -7530329901452531013
+      Drops_239: -4568705051217754103
+      Drops_24: -6643435775803488345
+      Drops_240: -6022791138601272984
+      Drops_241: -7518440665271033088
+      Drops_242: -5906461874753711201
+      Drops_243: 5350874712614397986
+      Drops_244: 3110546804777136987
+      Drops_245: -6154479311332391161
+      Drops_246: 3495037575808198298
+      Drops_247: -8082060732925593055
+      Drops_248: 4936832960227407903
+      Drops_249: 2078694058696017277
+      Drops_25: 4842208411975763481
+      Drops_250: 4518849582268620437
+      Drops_251: -1489858803234633959
+      Drops_252: 1344468957434340533
+      Drops_253: 2334467770415798020
+      Drops_254: -3773481519995366917
+      Drops_255: -1512142507204454770
+      Drops_256: -3863289110181376345
+      Drops_257: -4028308053441862352
+      Drops_258: -3763715097578814070
+      Drops_259: 1317782002120541891
+      Drops_26: 6937987321057093273
+      Drops_260: 5701899887167112389
+      Drops_261: -6920894671296201650
+      Drops_262: 8066575739871589497
+      Drops_263: -3323586390628295774
+      Drops_264: -34395898292565341
+      Drops_265: 8496376628622972035
+      Drops_266: 256971873757190982
+      Drops_267: 1259549356104959928
+      Drops_268: -3550232676715074056
+      Drops_269: -4643301473891487964
+      Drops_27: -3298769091169141563
+      Drops_270: 5208017989621722383
+      Drops_271: -8080550923912731918
+      Drops_272: 6916859631706367029
+      Drops_273: -7020448557498204986
+      Drops_274: -7733803980428598616
+      Drops_275: 4432974763446701710
+      Drops_276: 7239017340851025702
+      Drops_277: -8032266690738657464
+      Drops_278: -8244119095642164347
+      Drops_279: 8669457376451501531
+      Drops_28: 268183552923652317
+      Drops_280: 8017396345250927545
+      Drops_281: -1036066745914160446
+      Drops_282: 1902423391203960608
+      Drops_283: 2956070881724840979
+      Drops_284: -5139273363545239311
+      Drops_285: 8606823421232333865
+      Drops_286: -6627793678639008335
+      Drops_287: 3231456535902877668
+      Drops_288: 2741273295442512418
+      Drops_289: -8251324220191400617
+      Drops_29: -3670125956630946895
+      Drops_290: 2161054683448583323
+      Drops_291: -798399764643350574
+      Drops_3: 5622005364771165601
+      Drops_30: 4345170812474071799
+      Drops_31: 3905544137865767692
+      Drops_32: 3106482394414742534
+      Drops_33: 5650700278944997447
+      Drops_34: -6240311972077679962
+      Drops_35: 4648812873085649553
+      Drops_36: 431200520284874171
+      Drops_37: -1896814017979010551
+      Drops_38: 4290223083918524759
+      Drops_39: -6755162482719972539
+      Drops_4: 2932976599428820663
+      Drops_40: -8996688271885213370
+      Drops_41: -3042599616599955820
+      Drops_42: 3842998297862040229
+      Drops_43: 2935312623259804904
+      Drops_44: -2905146596699944904
+      Drops_45: 797128881791920337
+      Drops_46: 6887353556266862081
+      Drops_47: 2168026686990817724
+      Drops_48: -2101328277229868712
+      Drops_49: -2764194076578423788
+      Drops_5: -9079316033098101434
+      Drops_50: 7914160127174784282
+      Drops_51: -8323113405279697833
+      Drops_52: -8513301942775225448
+      Drops_53: 5508617934156356156
+      Drops_54: 666702172424249261
+      Drops_55: -2806902415711564935
+      Drops_56: -1581375064850218232
+      Drops_57: 8387676107013945399
+      Drops_58: 4518172991720744483
+      Drops_59: 533307932119495180
+      Drops_6: 8635073058422094168
+      Drops_60: 7679132672722974266
+      Drops_61: 2219126643138465000
+      Drops_62: 5057750455837674626
+      Drops_63: 1817338127828387533
+      Drops_64: -4220649031609398181
+      Drops_65: -3036030817080776972
+      Drops_66: 4181474992061306910
+      Drops_67: 1801079843565777518
+      Drops_68: -4077759438538236381
+      Drops_69: -2212152205877577241
+      Drops_7: -6271463838131770281
+      Drops_70: -1735253319862715415
+      Drops_71: 763633879735157920
+      Drops_72: 3804261612184120518
+      Drops_73: 3838488430549150485
+      Drops_74: 1537892542662663903
+      Drops_75: -3086337430649676456
+      Drops_76: -1605654630820599227
+      Drops_77: -8309564380981418922
+      Drops_78: 7982828143271887865
+      Drops_79: 1393637550395744911
+      Drops_8: -5053603655189359966
+      Drops_80: -753333231669174310
+      Drops_81: -7711419561581862677
+      Drops_82: -4839053069192298754
+      Drops_83: 1934979612692992528
+      Drops_84: 5459601991252969388
+      Drops_85: -9111170882178920302
+      Drops_86: -5957726395031186357
+      Drops_87: 5075677272689953805
+      Drops_88: -4451914581170544010
+      Drops_89: 711093008129021081
+      Drops_9: -8467297485008542599
+      Drops_90: -3978278213179242639
+      Drops_91: -3128784066571169917
+      Drops_92: 3900790654510313050
+      Drops_93: 3066630907371998497
+      Drops_94: -991355921654720502
+      Drops_95: -985795132304919731
+      Drops_96: -881433797912071973
+      Drops_97: 368647839834643112
+      Drops_98: -2535060228285651801
+      Drops_99: 4192875900336340356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

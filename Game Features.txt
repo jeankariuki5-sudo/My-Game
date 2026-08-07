@@ -1,0 +1,21 @@
+- Player movement (WASD/arrow), health, animated hit reactions
+- Auto-aim, auto-fire guns  up to 6 equipped at once, orbiting the player
+- Pooled projectiles that auto-return after 2s or on enemy hit
+- Two enemy types: normal chaser, and a "charger" that pauses, then dashes at the player- with support for multiple charger variants 
+
+- Score and materials (currency) earned per kill
+- 4 upgrades (Damage, Fire Rate, Speed, Max Health), each with escalating cost - price increases by a set amount every n purchases
+- Gun purchasing in the shop; when all 6 slots are full, buying a new gun opens a slot-picker UI so the player chooses which equipped gun to replace, instead of blocking the purchase
+
+- Waves scale in enemy count and spawn rate as you progress
+- Wave timer with countdown, wave-cleared vs. wave-failed (timeout) states
+- Shop opens automatically between waves
+- Tilemap/background swaps on each wave clear
+
+- High score and last-wave-reached saved and shown on the game-over screen
+- Game over and restart flow
+- Main Menu scene with Start/Quit with navigation between scenes 
+- Background music 
+
+- Pause menu (Escape key), cursor lock/unlock, resume/quit
+- 1-in-100 chance for a killed enemy to drop a health pickup

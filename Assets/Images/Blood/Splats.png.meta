@@ -1,0 +1,3341 @@
+fileFormatVersion: 2
+guid: 4271cedd0fa42794f85162400f1518ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1525535396763286377
+    second: Splats_0
+  - first:
+      213: -8274583956336827389
+    second: Splats_1
+  - first:
+      213: 7499119227210947044
+    second: Splats_2
+  - first:
+      213: -7123941445912855406
+    second: Splats_3
+  - first:
+      213: -2080771886758534021
+    second: Splats_4
+  - first:
+      213: 8793664414149347902
+    second: Splats_5
+  - first:
+      213: 7515845815107046368
+    second: Splats_6
+  - first:
+      213: -7912836914261412817
+    second: Splats_7
+  - first:
+      213: 7910188962201132687
+    second: Splats_8
+  - first:
+      213: -8918374402638008446
+    second: Splats_9
+  - first:
+      213: 6436573165839819299
+    second: Splats_10
+  - first:
+      213: 7889655888877082382
+    second: Splats_11
+  - first:
+      213: -6482766105019811005
+    second: Splats_12
+  - first:
+      213: 7032458022996034294
+    second: Splats_13
+  - first:
+      213: 3918430111245753342
+    second: Splats_14
+  - first:
+      213: -5792124368339377327
+    second: Splats_15
+  - first:
+      213: -4806041855398332976
+    second: Splats_16
+  - first:
+      213: 8832534173067245480
+    second: Splats_17
+  - first:
+      213: -7643362135406012709
+    second: Splats_18
+  - first:
+      213: 6090630833133148140
+    second: Splats_19
+  - first:
+      213: -6977450859302565093
+    second: Splats_20
+  - first:
+      213: 4008135513653709501
+    second: Splats_21
+  - first:
+      213: 3933863696072950832
+    second: Splats_22
+  - first:
+      213: 6310917850271935160
+    second: Splats_23
+  - first:
+      213: 1149427034380847242
+    second: Splats_24
+  - first:
+      213: -4350747368673115213
+    second: Splats_25
+  - first:
+      213: -8488591984082543762
+    second: Splats_26
+  - first:
+      213: -3948538821492072947
+    second: Splats_27
+  - first:
+      213: -7786445869870117993
+    second: Splats_28
+  - first:
+      213: 4424386891825202039
+    second: Splats_29
+  - first:
+      213: -3728276478663611541
+    second: Splats_30
+  - first:
+      213: 768473700356520034
+    second: Splats_31
+  - first:
+      213: -4079333753622956810
+    second: Splats_32
+  - first:
+      213: -7634434094809864311
+    second: Splats_33
+  - first:
+      213: 1860418635742782916
+    second: Splats_34
+  - first:
+      213: 6733558960570018891
+    second: Splats_35
+  - first:
+      213: 6868873075445254532
+    second: Splats_36
+  - first:
+      213: -7107831797303817615
+    second: Splats_37
+  - first:
+      213: -2230195758771181373
+    second: Splats_38
+  - first:
+      213: 4502163983986613994
+    second: Splats_39
+  - first:
+      213: 1971563911137373185
+    second: Splats_40
+  - first:
+      213: 4859443313717857029
+    second: Splats_41
+  - first:
+      213: -5157500855822672864
+    second: Splats_42
+  - first:
+      213: -9018140085110561569
+    second: Splats_43
+  - first:
+      213: 1806348200195723474
+    second: Splats_44
+  - first:
+      213: 9049193908069108751
+    second: Splats_45
+  - first:
+      213: -5702835292247681531
+    second: Splats_46
+  - first:
+      213: 8504897533922645755
+    second: Splats_47
+  - first:
+      213: -1531245746177381929
+    second: Splats_48
+  - first:
+      213: -2240958768100583854
+    second: Splats_49
+  - first:
+      213: -7107182355011325767
+    second: Splats_50
+  - first:
+      213: -4462955774557835383
+    second: Splats_51
+  - first:
+      213: 377333537391365714
+    second: Splats_52
+  - first:
+      213: 1649953062091110933
+    second: Splats_53
+  - first:
+      213: -5096731217402135048
+    second: Splats_54
+  - first:
+      213: -7203901743682100757
+    second: Splats_55
+  - first:
+      213: -8943517589460424308
+    second: Splats_56
+  - first:
+      213: -2363828920944182661
+    second: Splats_57
+  - first:
+      213: 3333945892414619647
+    second: Splats_58
+  - first:
+      213: 8711347608217698910
+    second: Splats_59
+  - first:
+      213: -2080073001200874293
+    second: Splats_60
+  - first:
+      213: -3892298780858942903
+    second: Splats_61
+  - first:
+      213: -1312863202203587287
+    second: Splats_62
+  - first:
+      213: -5882955570080395619
+    second: Splats_63
+  - first:
+      213: 212765264802101816
+    second: Splats_64
+  - first:
+      213: 4982286715706133112
+    second: Splats_65
+  - first:
+      213: -8641034487405688158
+    second: Splats_66
+  - first:
+      213: 2374669560278167078
+    second: Splats_67
+  - first:
+      213: -4701616255523189014
+    second: Splats_68
+  - first:
+      213: 8316900637467708719
+    second: Splats_69
+  - first:
+      213: -7067831249768974648
+    second: Splats_70
+  - first:
+      213: -1474823118764441092
+    second: Splats_71
+  - first:
+      213: 262663965857990832
+    second: Splats_72
+  - first:
+      213: -1442228120104085290
+    second: Splats_73
+  - first:
+      213: -6196592791209563104
+    second: Splats_74
+  - first:
+      213: -6665783511378710010
+    second: Splats_75
+  - first:
+      213: -5744792878842609241
+    second: Splats_76
+  - first:
+      213: -5765959749358358231
+    second: Splats_77
+  - first:
+      213: 7862908678479649443
+    second: Splats_78
+  - first:
+      213: -4921350365736701021
+    second: Splats_79
+  - first:
+      213: 4140282787428714163
+    second: Splats_80
+  - first:
+      213: 5456202033831639698
+    second: Splats_81
+  - first:
+      213: 209965682735817767
+    second: Splats_82
+  - first:
+      213: -2825766147594246684
+    second: Splats_83
+  - first:
+      213: 1904534150240265447
+    second: Splats_84
+  - first:
+      213: 3989557878589970977
+    second: Splats_85
+  - first:
+      213: -2554737477074080098
+    second: Splats_86
+  - first:
+      213: -8316289812775239068
+    second: Splats_87
+  - first:
+      213: 3830415303448223210
+    second: Splats_88
+  - first:
+      213: 8556026521355565804
+    second: Splats_89
+  - first:
+      213: -224909295777520272
+    second: Splats_90
+  - first:
+      213: -2714849009233608259
+    second: Splats_91
+  - first:
+      213: 6322846166176290313
+    second: Splats_92
+  - first:
+      213: -3839465383109320547
+    second: Splats_93
+  - first:
+      213: 4906889621969462449
+    second: Splats_94
+  - first:
+      213: -1631501936449297612
+    second: Splats_95
+  - first:
+      213: 2822886594684557178
+    second: Splats_96
+  - first:
+      213: 2314914121142304875
+    second: Splats_97
+  - first:
+      213: -3178009463788757840
+    second: Splats_98
+  - first:
+      213: 5902746412651440824
+    second: Splats_99
+  - first:
+      213: 5962632638117261122
+    second: Splats_100
+  - first:
+      213: -3937815205156345879
+    second: Splats_101
+  - first:
+      213: -8842829746768444616
+    second: Splats_102
+  - first:
+      213: 3956970499625577151
+    second: Splats_103
+  - first:
+      213: -5896657558981473766
+    second: Splats_104
+  - first:
+      213: 4129408506292018355
+    second: Splats_105
+  - first:
+      213: 1687353602122279137
+    second: Splats_106
+  - first:
+      213: 1062219447529962636
+    second: Splats_107
+  - first:
+      213: -3607635637842540625
+    second: Splats_108
+  - first:
+      213: 1182856624707849087
+    second: Splats_109
+  - first:
+      213: -7551755519714817038
+    second: Splats_110
+  - first:
+      213: -9108398160307201077
+    second: Splats_111
+  - first:
+      213: -1106329861790062074
+    second: Splats_112
+  - first:
+      213: -7518954806756623008
+    second: Splats_113
+  - first:
+      213: 3970704279553821852
+    second: Splats_114
+  - first:
+      213: 4086857483291490576
+    second: Splats_115
+  - first:
+      213: 4232545194159749206
+    second: Splats_116
+  - first:
+      213: 52181094658781388
+    second: Splats_117
+  - first:
+      213: -94135762995957335
+    second: Splats_118
+  - first:
+      213: 1822069664841045786
+    second: Splats_119
+  - first:
+      213: 6368505708994309134
+    second: Splats_120
+  - first:
+      213: -1914997962742607019
+    second: Splats_121
+  - first:
+      213: -5704540875533314746
+    second: Splats_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Splats_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 346
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c3a7a3a534dae0800000000000000
+      internalID: -1525535396763286377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 568
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a56a7bb5ca2d80800000000000000
+      internalID: -8274583956336827389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 569
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d5328439321860800000000000000
+      internalID: 7499119227210947044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c7eabcffca22d90800000000000000
+      internalID: -7123941445912855406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 576
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74632f4efc9f13e0800000000000000
+      internalID: -2080771886758534021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 531
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8d5f913f590a70800000000000000
+      internalID: 8793664414149347902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 580
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcf0cb2f5ad4860800000000000000
+      internalID: 7515845815107046368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 565
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b9df10c4ff2290800000000000000
+      internalID: -7912836914261412817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 580
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ed63e73f2a6cd60800000000000000
+      internalID: 7910188962201132687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 597
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f23dc7bb19b3480800000000000000
+      internalID: -8918374402638008446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 587
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a1b0213d435950800000000000000
+      internalID: 6436573165839819299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 579
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075690da30bd7d60800000000000000
+      internalID: 7889655888877082382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 228
+        width: 267
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf95c13969806a0800000000000000
+      internalID: -6482766105019811005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 589
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24686ff4f489160800000000000000
+      internalID: 7032458022996034294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5ff9ec6f016630800000000000000
+      internalID: 3918430111245753342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 573
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536f32339d3e9fa0800000000000000
+      internalID: -5792124368339377327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b25165628d4db0800000000000000
+      internalID: -4806041855398332976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 587
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fb2c9807739a70800000000000000
+      internalID: 8832534173067245480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 576
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6147552a25de590800000000000000
+      internalID: -7643362135406012709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 424
+        width: 36
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce751f22974468450800000000000000
+      internalID: 6090630833133148140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 562
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc68d596d1b2f90800000000000000
+      internalID: -6977450859302565093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 563
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba05fe7302cf9730800000000000000
+      internalID: 4008135513653709501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 554
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034cb376034e79630800000000000000
+      internalID: 3933863696072950832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba61202952e49750800000000000000
+      internalID: 6310917850271935160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 555
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88408f3cc593ff00800000000000000
+      internalID: 1149427034380847242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 560
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b306c6c15a0f93c0800000000000000
+      internalID: -4350747368673115213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 545
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1881a096723a80800000000000000
+      internalID: -8488591984082543762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e1023bcd8f339c0800000000000000
+      internalID: -3948538821492072947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b85975cbcf0f390800000000000000
+      internalID: -7786445869870117993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_29
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 506
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c22ccf64966d30800000000000000
+      internalID: 4424386891825202039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_30
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 509
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bafc0cb40824cc0800000000000000
+      internalID: -3728276478663611541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 477
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268faf842ca2aaa00800000000000000
+      internalID: 768473700356520034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 474
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fa07709b4367c0800000000000000
+      internalID: -4079333753622956810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9872ab5c3aa0d0690800000000000000
+      internalID: -7634434094809864311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c527fc64e881d910800000000000000
+      internalID: 1860418635742782916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4caceed238627d50800000000000000
+      internalID: 6733558960570018891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c8255ba3235f50800000000000000
+      internalID: 6868873075445254532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_37
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 450
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aca76a3a8eb5d90800000000000000
+      internalID: -7107831797303817615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c86cd206c0cc01e0800000000000000
+      internalID: -2230195758771181373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 399
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee541a3a46ea7e30800000000000000
+      internalID: 4502163983986613994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 402
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ca25f6ee66c5b10800000000000000
+      internalID: 1971563911137373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 381
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bcc4882f5307340800000000000000
+      internalID: 4859443313717857029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 399
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9ae71c40ec68b0800000000000000
+      internalID: -5157500855822672864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 392
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4264c6f5129d280800000000000000
+      internalID: -9018140085110561569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 396
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0155d1e10711910800000000000000
+      internalID: 1806348200195723474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c861a2ae1359d70800000000000000
+      internalID: 9049193908069108751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 368
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506140144857bd0b0800000000000000
+      internalID: -5702835292247681531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 372
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf61e880f37770670800000000000000
+      internalID: 8504897533922645755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 384
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e4435b1cefbae0800000000000000
+      internalID: -1531245746177381929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_49
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 368
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256511f9fd386e0e0800000000000000
+      internalID: -2240958768100583854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b030a7bd473e5d90800000000000000
+      internalID: -7107182355011325767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_51
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 378
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa3396e556012c0800000000000000
+      internalID: -4462955774557835383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_52
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ecd026ade8c3500800000000000000
+      internalID: 377333537391365714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3202719fc5e610800000000000000
+      internalID: 1649953062091110933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 357
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf91f16f5c449b0800000000000000
+      internalID: -5096731217402135048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 366
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e2033889960c90800000000000000
+      internalID: -7203901743682100757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 372
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e0cd132e32e380800000000000000
+      internalID: -8943517589460424308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ab359de1ef13fd0800000000000000
+      internalID: -2363828920944182661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 359
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffffeb9002e844e20800000000000000
+      internalID: 3333945892414619647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 353
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c3c6be7ce4e870800000000000000
+      internalID: 8711347608217698910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_60
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 345
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8a8840a81223e0800000000000000
+      internalID: -2080073001200874293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a773f81e6cbf9c0800000000000000
+      internalID: -3892298780858942903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d29f99fd5c7cde0800000000000000
+      internalID: -1312863202203587287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 306
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec3f7041b8b5ea0800000000000000
+      internalID: -5882955570080395619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a321d81e4e3f200800000000000000
+      internalID: 212765264802101816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87acfc2ee53a42540800000000000000
+      internalID: 4982286715706133112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_66
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 284
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac8467ae0e41880800000000000000
+      internalID: -8641034487405688158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_67
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 279
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e205f226584f020800000000000000
+      internalID: 2374669560278167078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 266
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee86530de080ceb0800000000000000
+      internalID: -4701616255523189014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 243
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d8b70a0119b6370800000000000000
+      internalID: 8316900637467708719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 270
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67d11ece40aed90800000000000000
+      internalID: -7067831249768974648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 261
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1038bff20688be0800000000000000
+      internalID: -1474823118764441092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 259
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c24c3c7b25a300800000000000000
+      internalID: 262663965857990832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_73
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 272
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8dd108a2d2cfbe0800000000000000
+      internalID: -1442228120104085290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_74
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2536ffa7410aa0800000000000000
+      internalID: -6196592791209563104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602bd9696316e73a0800000000000000
+      internalID: -6665783511378710010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1846c50556640b0800000000000000
+      internalID: -5744792878842609241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 247
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9217b4648223bffa0800000000000000
+      internalID: -5765959749358358231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 249
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9d1a98c9ae1d60800000000000000
+      internalID: 7862908678479649443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_79
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 261
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a37603bae9d3bbb0800000000000000
+      internalID: -4921350365736701021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b64a5e424d357930800000000000000
+      internalID: 4140282787428714163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7c4177d258bb40800000000000000
+      internalID: 5456202033831639698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 244
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ad7e0da2f9e200800000000000000
+      internalID: 209965682735817767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 245
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5225a09acd8c8d0800000000000000
+      internalID: -2825766147594246684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_84
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ebaf08b34e6a10800000000000000
+      internalID: 1904534150240265447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 210
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5734c0c1cd5730800000000000000
+      internalID: 3989557878589970977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 228
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2f98dccfbb8cd0800000000000000
+      internalID: -2554737477074080098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46205541a7a969c80800000000000000
+      internalID: -8316289812775239068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 232
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed50409c6e582530800000000000000
+      internalID: 3830415303448223210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea38361acc1db670800000000000000
+      internalID: 8556026521355565804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 234
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0756f76ef26f0ecf0800000000000000
+      internalID: -224909295777520272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_91
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14fc1c53be25ad0800000000000000
+      internalID: -2714849009233608259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_92
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 241
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d06896134fb750800000000000000
+      internalID: 6322846166176290313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 38
+        width: 307
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902c50939a77bac0800000000000000
+      internalID: -3839465383109320547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46a850d16c81440800000000000000
+      internalID: 4906889621969462449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e39302adbb59e0800000000000000
+      internalID: -1631501936449297612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_96
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77926dc668ec2720800000000000000
+      internalID: 2822886594684557178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600934d02a302020800000000000000
+      internalID: 2314914121142304875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9a020b3175e3d0800000000000000
+      internalID: -3178009463788757840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 183
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baec459694cae150800000000000000
+      internalID: 5902746412651440824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_100
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f21210bc68fb250800000000000000
+      internalID: 5962632638117261122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 158
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e726813fe11a59c0800000000000000
+      internalID: -3937815205156345879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 174
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8330c965235f74580800000000000000
+      internalID: -8842829746768444616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae1e854bbf9e630800000000000000
+      internalID: 3956970499625577151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_104
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a89c2213dda2ea0800000000000000
+      internalID: -5896657558981473766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_105
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc130e682b9e4930800000000000000
+      internalID: 4129408506292018355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_106
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 119
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e869f0492faa6710800000000000000
+      internalID: 1687353602122279137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf88ba5f2cdbe00800000000000000
+      internalID: 1062219447529962636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_108
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 75
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa70b5f508a1fedc0800000000000000
+      internalID: -3607635637842540625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bcde745d95a6010800000000000000
+      internalID: 1182856624707849087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 81
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8dc0ad56c23790800000000000000
+      internalID: -7551755519714817038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_111
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb511ea128789180800000000000000
+      internalID: -9108398160307201077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_112
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 62
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aa89f2ad685a0f0800000000000000
+      internalID: -1106329861790062074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3e0db07e47a790800000000000000
+      internalID: -7518954806756623008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ccdea2186ca1730800000000000000
+      internalID: 3970704279553821852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_115
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197c3b5a3f67b830800000000000000
+      internalID: 4086857483291490576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_116
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 62
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658bda9dd650dba30800000000000000
+      internalID: 4232545194159749206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_117
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b02bdd6269b000800000000000000
+      internalID: 52181094658781388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a137f5b50091bef0800000000000000
+      internalID: -94135762995957335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_119
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 46
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a179dd8d4ba494910800000000000000
+      internalID: 1822069664841045786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_120
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c27a6533a716850800000000000000
+      internalID: 6368505708994309134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_121
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553512dbf7f8c65e0800000000000000
+      internalID: -1914997962742607019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splats_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64514233c4665d0b0800000000000000
+      internalID: -5704540875533314746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Splats_0: -1525535396763286377
+      Splats_1: -8274583956336827389
+      Splats_10: 6436573165839819299
+      Splats_100: 5962632638117261122
+      Splats_101: -3937815205156345879
+      Splats_102: -8842829746768444616
+      Splats_103: 3956970499625577151
+      Splats_104: -5896657558981473766
+      Splats_105: 4129408506292018355
+      Splats_106: 1687353602122279137
+      Splats_107: 1062219447529962636
+      Splats_108: -3607635637842540625
+      Splats_109: 1182856624707849087
+      Splats_11: 7889655888877082382
+      Splats_110: -7551755519714817038
+      Splats_111: -9108398160307201077
+      Splats_112: -1106329861790062074
+      Splats_113: -7518954806756623008
+      Splats_114: 3970704279553821852
+      Splats_115: 4086857483291490576
+      Splats_116: 4232545194159749206
+      Splats_117: 52181094658781388
+      Splats_118: -94135762995957335
+      Splats_119: 1822069664841045786
+      Splats_12: -6482766105019811005
+      Splats_120: 6368505708994309134
+      Splats_121: -1914997962742607019
+      Splats_122: -5704540875533314746
+      Splats_13: 7032458022996034294
+      Splats_14: 3918430111245753342
+      Splats_15: -5792124368339377327
+      Splats_16: -4806041855398332976
+      Splats_17: 8832534173067245480
+      Splats_18: -7643362135406012709
+      Splats_19: 6090630833133148140
+      Splats_2: 7499119227210947044
+      Splats_20: -6977450859302565093
+      Splats_21: 4008135513653709501
+      Splats_22: 3933863696072950832
+      Splats_23: 6310917850271935160
+      Splats_24: 1149427034380847242
+      Splats_25: -4350747368673115213
+      Splats_26: -8488591984082543762
+      Splats_27: -3948538821492072947
+      Splats_28: -7786445869870117993
+      Splats_29: 4424386891825202039
+      Splats_3: -7123941445912855406
+      Splats_30: -3728276478663611541
+      Splats_31: 768473700356520034
+      Splats_32: -4079333753622956810
+      Splats_33: -7634434094809864311
+      Splats_34: 1860418635742782916
+      Splats_35: 6733558960570018891
+      Splats_36: 6868873075445254532
+      Splats_37: -7107831797303817615
+      Splats_38: -2230195758771181373
+      Splats_39: 4502163983986613994
+      Splats_4: -2080771886758534021
+      Splats_40: 1971563911137373185
+      Splats_41: 4859443313717857029
+      Splats_42: -5157500855822672864
+      Splats_43: -9018140085110561569
+      Splats_44: 1806348200195723474
+      Splats_45: 9049193908069108751
+      Splats_46: -5702835292247681531
+      Splats_47: 8504897533922645755
+      Splats_48: -1531245746177381929
+      Splats_49: -2240958768100583854
+      Splats_5: 8793664414149347902
+      Splats_50: -7107182355011325767
+      Splats_51: -4462955774557835383
+      Splats_52: 377333537391365714
+      Splats_53: 1649953062091110933
+      Splats_54: -5096731217402135048
+      Splats_55: -7203901743682100757
+      Splats_56: -8943517589460424308
+      Splats_57: -2363828920944182661
+      Splats_58: 3333945892414619647
+      Splats_59: 8711347608217698910
+      Splats_6: 7515845815107046368
+      Splats_60: -2080073001200874293
+      Splats_61: -3892298780858942903
+      Splats_62: -1312863202203587287
+      Splats_63: -5882955570080395619
+      Splats_64: 212765264802101816
+      Splats_65: 4982286715706133112
+      Splats_66: -8641034487405688158
+      Splats_67: 2374669560278167078
+      Splats_68: -4701616255523189014
+      Splats_69: 8316900637467708719
+      Splats_7: -7912836914261412817
+      Splats_70: -7067831249768974648
+      Splats_71: -1474823118764441092
+      Splats_72: 262663965857990832
+      Splats_73: -1442228120104085290
+      Splats_74: -6196592791209563104
+      Splats_75: -6665783511378710010
+      Splats_76: -5744792878842609241
+      Splats_77: -5765959749358358231
+      Splats_78: 7862908678479649443
+      Splats_79: -4921350365736701021
+      Splats_8: 7910188962201132687
+      Splats_80: 4140282787428714163
+      Splats_81: 5456202033831639698
+      Splats_82: 209965682735817767
+      Splats_83: -2825766147594246684
+      Splats_84: 1904534150240265447
+      Splats_85: 3989557878589970977
+      Splats_86: -2554737477074080098
+      Splats_87: -8316289812775239068
+      Splats_88: 3830415303448223210
+      Splats_89: 8556026521355565804
+      Splats_9: -8918374402638008446
+      Splats_90: -224909295777520272
+      Splats_91: -2714849009233608259
+      Splats_92: 6322846166176290313
+      Splats_93: -3839465383109320547
+      Splats_94: 4906889621969462449
+      Splats_95: -1631501936449297612
+      Splats_96: 2822886594684557178
+      Splats_97: 2314914121142304875
+      Splats_98: -3178009463788757840
+      Splats_99: 5902746412651440824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyChargerAnimator
+  m_Controller: {fileID: 9100000, guid: 235dfb3785d912b42b3646935ec18719, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2fb4549011ba6b948a0f227644817934, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 55c185e1878ac16468b7e24882012c59, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b3af893d2b8f75147b388f473ed79647, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b3af893d2b8f75147b388f473ed79647, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ba926cd7ffcc8bb418c4c9d661b7ee38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67129b6fff8d4be4486f50d7d6a0787e, type: 2}

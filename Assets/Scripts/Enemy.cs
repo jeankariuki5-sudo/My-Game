@@ -17,19 +17,29 @@ public class Enemy : MonoBehaviour
 
 
 
-    [Header("Charger enemy")]
+    [Header("Charger / Boss Dash")]
 
     [SerializeField] private float distanceToCharge = 15f;
 
     [SerializeField] private bool isCharger;
+    [SerializeField] private bool isBoss;       // NEW: Checkbox for your Boss prefab
+    [SerializeField] private bool isMegaboss;   // NEW: Checkbox for your Megaboss prefab
 
     [SerializeField] private float chargeSpeed = 12f;
 
     [SerializeField] private float prepareTime = 2f;
 
+    [Tooltip("Max seconds a charge can last if it never reaches its target (safety fallback)")]
+    [SerializeField] private float maxChargeDuration = 2f;
+
     private bool isCharging = false;
 
     private bool isPreparingCharge = false;
+
+    // The point being charged toward. Captured once when the charge begins, then never
+    // updated again for the duration of the charge - the enemy commits to this point even
+    // if the player moves away, rather than continuing to home in on their live position.
+    private Vector3 chargeTargetPosition;
 
 
 
@@ -38,18 +48,26 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private float stoppingDistance = 1.5f;
 
+    [Header("Size (for boss/megaboss variants)")]
+    [Tooltip("1 = normal size, 2 = double size (boss), 5 = 5x size (megaboss), etc.")]
+    [SerializeField] private float sizeMultiplier = 1f;
 
 
-    private int maxHealth = 100;
+
+    [SerializeField] private int maxHealth = 100;
 
     private int currentHealth;
 
 
 
+    [Header("Rewards")]
+
+    [SerializeField] private int scoreValue = 10;
+    [SerializeField] private int materialValue = 5;
+
     [Header("Health drop")]
 
     [SerializeField] private GameObject healthPickupPrefab;
-    [SerializeField] private int materialValue = 5;
 
     [Header("Audio Sethhings")]
     [SerializeField] private AudioClip enemyHit;
@@ -83,6 +101,10 @@ public class Enemy : MonoBehaviour
         audioSource.spatialBlend = 0f;
 
         baseSpeed = speed;
+
+        anim.SetBool("IsCharger", isCharger);
+        anim.SetBool("IsBoss", isBoss);
+        anim.SetBool("IsMegaboss", isMegaboss);
     }
 
     // OnEnable runs every time this object is reactivated (including from the pool), unlike Start/Awake.
@@ -114,54 +136,53 @@ public class Enemy : MonoBehaviour
 
 
     private void Update()
-
     {
-
-        if (!WaveManager.Instance.WaveRunning())
-
-        {
-
-            return;
-
-        }
-
+        if (!WaveManager.Instance.WaveRunning()) { return; }
         if (target == null) return;
 
-
-
+        // 1. IF PREPARING CHARGE: The enemy stops completely to wind up.
         if (isPreparingCharge)
-
         {
-
+            anim.SetBool("IsMoving", false); // Force them into Idle while winding up!
             return;
-
         }
 
-
-
-        Vector3 direction = (target.position - transform.position).normalized;
-
-        transform.position += direction * speed * Time.deltaTime;
-
-
-
-        bool playerToRight = target.position.x > transform.position.x;
-
-        transform.localScale = new Vector2(playerToRight ? -1 : 1, 1);
-
-
-
-        if (isCharger && !isCharging && Vector2.Distance(transform.position, target.position) < distanceToCharge)
-
+        // 2. IF CHARGING: The enemy is sprinting toward the target point
+        if (isCharging)
         {
+            Vector3 chargeDirection = (chargeTargetPosition - transform.position).normalized;
+            transform.position += chargeDirection * speed * Time.deltaTime;
+            bool facingRightDuringCharge = chargeTargetPosition.x > transform.position.x;
+            transform.localScale = new Vector2(facingRightDuringCharge ? -sizeMultiplier : sizeMultiplier, sizeMultiplier);
 
-            isPreparingCharge = true;
+            if (Vector2.Distance(transform.position, chargeTargetPosition) < 0.2f)
+            {
+                CancelInvoke(nameof(StopCharging));
+                StopCharging();
+            }
 
-            Invoke(nameof(StartCharging), prepareTime);
-
+            anim.SetBool("IsMoving", true); // FORCE animation to play while charging!
+            return;
         }
 
+        // 3. STANDARD MOVEMENT: Regular tracking toward the player
+        Vector3 direction = (target.position - transform.position).normalized;
+        transform.position += direction * speed * Time.deltaTime;
+        bool playerToRight = target.position.x > transform.position.x;
+        transform.localScale = new Vector2(playerToRight ? -sizeMultiplier : sizeMultiplier, sizeMultiplier);
+
+        bool canDash = isCharger || isBoss || isMegaboss;
+
+        if (canDash && !isCharging && Vector2.Distance(transform.position, target.position) < distanceToCharge)
+        {
+            isPreparingCharge = true;
+            Invoke(nameof(StartCharging), prepareTime);
+        }
+
+        // FORCE animation to play during normal walk state
+        anim.SetBool("IsMoving", true);
     }
+
 
 
 
@@ -177,7 +198,11 @@ public class Enemy : MonoBehaviour
 
         speed = chargeSpeed;
 
-        Invoke(nameof(StopCharging), 2f);
+        // Lock in the target position now - this is the point being charged toward for the
+        // whole dash, regardless of where the player moves afterward.
+        chargeTargetPosition = target != null ? target.position : transform.position;
+
+        Invoke(nameof(StopCharging), maxChargeDuration);
 
     }
 
@@ -241,19 +266,19 @@ public class Enemy : MonoBehaviour
 
         if (player != null)
         {
-            player.Addscore(10);
+            player.Addscore(scoreValue);
             player.AddMaterials(materialValue);
-        } 
-            
+        }
 
 
 
-        // 1 in 100 chance to drop a health pickup
+
+        // 1 in 10 chance to drop a health pickup
         if (ObjectPooler.Instance != null)
 
         {
 
-            int dropRoll = UnityEngine.Random.Range(0, 100); // 0-99 inclusive
+            int dropRoll = UnityEngine.Random.Range(0, 10); // 0-9 inclusive
             if (dropRoll == 0)
             {
                 ObjectPooler.Instance.GetObject(healthPickupPrefab, transform.position, Quaternion.identity);

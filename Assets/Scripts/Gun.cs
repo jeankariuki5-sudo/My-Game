@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
+    [Header("UI")]
+    [SerializeField] public Sprite icon; // shown on shop/slot-picker buttons instead of the gun's name
+
     [Header("Bullet Settings")]
     [SerializeField] GameObject muzzle;
     [SerializeField] Transform muzzlePosition;

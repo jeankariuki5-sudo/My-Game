@@ -131,21 +131,9 @@ public class ShopManager : MonoBehaviour
     }
 
 
-    // subscribe to wavecleared event
-    private void OnEnable()
-    {
-        GameEvents.OnWaveCleared += OpenShopFromEvent;
-    }
-
-    private void OnDisable()
-    {
-        GameEvents.OnWaveCleared -= OpenShopFromEvent;
-    }
-
-    private void OpenShopFromEvent()
-    {
-        OpenShop(null);
-    }
+    // Note: the shop is opened by WaveManager (after its "Wave Cleared" text delay, or
+    // immediately on a wave timeout), never in response to GameEvents.OnWaveCleared directly.
+    // A previous version subscribed to that event here too, which caused the shop to open twice.
 
 
 
@@ -299,10 +287,12 @@ public class ShopManager : MonoBehaviour
         UpgradeSO upgrade = GetUpgradeByStat(stat);
         if (upgrade == null) return;
 
-        TextMeshProUGUI label = button.GetComponentInChildren<TextMeshProUGUI>();
-        if (label != null)
+        // The Health upgrade only heals (doesn't raise the cap), so buying it while already
+        // at full health would spend materials for nothing - disable it instead.
+        if (stat == UpgradeSO.StatType.MaxHealth)
         {
-            label.text = upgrade.upgradeName + " (" + GetCurrentUpgradeCost(upgrade) + ")";
+            bool atFullHealth = Player.Instance != null && Player.Instance.IsAtFullHealth();
+            button.interactable = !atFullHealth;
         }
     }
 
@@ -375,11 +365,20 @@ public class ShopManager : MonoBehaviour
         {
             if (gunSlotButtons[i] == null) continue;
 
-            // label each slot button with the gun currently occupying it
-            TextMeshProUGUI label = gunSlotButtons[i].GetComponentInChildren<TextMeshProUGUI>();
-            if (label != null && i < currentGuns.Count && currentGuns[i] != null)
+            // show the icon of the gun currently occupying this slot
+            Transform iconTransform = gunSlotButtons[i].transform.Find("Icon");
+            if (iconTransform != null)
             {
-                label.text = currentGuns[i].name;
+                Image icon = iconTransform.GetComponent<Image>();
+                if (icon != null)
+                {
+                    bool hasGun = i < currentGuns.Count && currentGuns[i] != null;
+                    icon.enabled = hasGun && currentGuns[i].icon != null;
+                    if (hasGun)
+                    {
+                        icon.sprite = currentGuns[i].icon;
+                    }
+                }
             }
 
             int slotIndex = i; // capture for closure
@@ -460,17 +459,7 @@ public class ShopManager : MonoBehaviour
     {
         for (int i = 0; i < buyGunButtons.Length; i++)
         {
-            if (buyGunButtons[i] != null)
-            {
-                //  get buttons text child
-                TextMeshProUGUI btnText = buyGunButtons[i].GetComponentInChildren<TextMeshProUGUI>();
-                if (btnText != null && i < gunpool.Count)
-                {
-                    Gun gun = gunpool[i];
-                    string gunName = gun != null ? gun.name : "Gun";
-                    btnText.text = gunName + "(" + gunCosts[i] + ")";
-                }
-            }
+            // button text is set up in the editor and no longer overwritten here
         }
     }
 

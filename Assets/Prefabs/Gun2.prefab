@@ -77,6 +77,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f3dc7f4db7d09c4ca4100a6e828c6fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Gun
+  icon: {fileID: 5182299067807867188, guid: 40f9805377fb5e740bf5d1ebb32ca88c, type: 3}
   muzzle: {fileID: 1773608614935934281, guid: 671aceeb9dc35894da0a004b743771c2, type: 3}
   muzzlePosition: {fileID: 1249439161388785839}
   projectile: {fileID: 1201996512262022126, guid: 8ac1d97d6f4bf4443afda55481c24a11, type: 3}

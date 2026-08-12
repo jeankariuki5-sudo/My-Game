@@ -12,6 +12,10 @@ public class EnemyManager : MonoBehaviour
     [Header("Charger Variants (fast, tanky, etc.)")]
     [SerializeField] private GameObject[] chargerPrefabs;
 
+    [Header("Boss Waves")]
+    [SerializeField] private GameObject bossPrefab;
+    [SerializeField] private GameObject megaBossPrefab;
+
     [SerializeField] private float baseSpawnInterval = 0.8f;
     [SerializeField] private TextMeshProUGUI enemiesKilledText;
 
@@ -35,7 +39,7 @@ public class EnemyManager : MonoBehaviour
 
     private int enemiesKiled = 0;
 
-
+    private int enemiesThisWaveTotal = 0; // peak enemy count for the wave, used as the progress bar's max
 
     public static EnemyManager Instance;
 
@@ -133,6 +137,14 @@ public class EnemyManager : MonoBehaviour
 
     {
 
+        StartWave(totalEnemies, spawnInterval, false, false);
+
+    }
+
+    public void StartWave(int totalEnemies, float spawnInterval, bool spawnBoss, bool spawnMegaBoss)
+
+    {
+
         enemiesToSpawn = totalEnemies;
 
         enemiesSpawnedSoFar = 0;
@@ -141,11 +153,51 @@ public class EnemyManager : MonoBehaviour
 
         enemiesKiled = 0;
 
+        enemiesThisWaveTotal = totalEnemies + ((spawnBoss || spawnMegaBoss) ? 1 : 0);
+
         currentSpawnInterval = spawnInterval;
 
         spawnTimer = 0f;
 
         isSpawning = true;
+
+        if (spawnMegaBoss && megaBossPrefab != null)
+        {
+            SpawnBoss(megaBossPrefab);
+        }
+        else if (spawnBoss && bossPrefab != null)
+        {
+            SpawnBoss(bossPrefab);
+        }
+
+    }
+
+    // Spawns a boss/megaboss immediately when the wave starts, separate from the regular
+    // timed spawn loop. Counted in enemiesAlive (so the wave won't clear until it dies too)
+    // but not in enemiesToSpawn/enemiesSpawnedSoFar, which track the regular enemy batch.
+    private void SpawnBoss(GameObject prefab)
+
+    {
+
+        if (ObjectPooler.Instance == null)
+        {
+            Debug.LogWarning("EnemyManager.SpawnBoss: no ObjectPooler in the scene.");
+            return;
+        }
+
+        Vector2 spawnPos = RandomPosition();
+
+        GameObject b = ObjectPooler.Instance.GetObject(prefab, spawnPos, Quaternion.identity);
+
+        if (b == null)
+        {
+            Debug.LogWarning($"EnemyManager.SpawnBoss: pooler returned null for prefab '{prefab.name}'.");
+            return;
+        }
+
+        b.transform.SetParent(enemiesParent);
+
+        enemiesAlive++;
 
     }
 
@@ -227,6 +279,13 @@ public class EnemyManager : MonoBehaviour
 
         return enemiesAlive;
 
+    }
+
+    // Peak enemy count for the current wave (regular enemies + boss, if any).
+    // Used as the denominator for the enemies-left progress bar.
+    public int GetTotalCountThisWave()
+    {
+        return enemiesThisWaveTotal;
     }
 
 

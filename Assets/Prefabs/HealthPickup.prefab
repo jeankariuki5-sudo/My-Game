@@ -83,7 +83,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8389134475083476877, guid: 72302573f570b6744983f4b8134be878, type: 3}
+  m_Sprite: {fileID: 686095400030572978, guid: 6e5468be9fd20014a86424e505827736, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -142,4 +142,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthPickup
   healAmount: 20
-  poolTag: HealthPickup

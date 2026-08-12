@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
+using System.Collections;
 
 public class GameManager : MonoBehaviour
 {
@@ -13,8 +14,17 @@ public class GameManager : MonoBehaviour
     [Header("Score Settings")]
     [SerializeField] TextMeshProUGUI lastWaveText;
     [SerializeField] TextMeshProUGUI highScoreText;
-    [SerializeField] GameObject newHighScoreMessage;
-    [SerializeField] TextMeshProUGUI highScoreValue;
+
+    [Header("New High Score Flow")]
+    [Tooltip("Shown instead of the normal restart flow when the player beats their high score")]
+    [SerializeField] private GameObject newHighScorePanel;
+    [SerializeField] private Button playAgainButton;
+    [Tooltip("The high score number, shown on the New High Score panel itself")]
+    [SerializeField] private TextMeshProUGUI highScoreValue;
+    [Tooltip("How long the Game Over panel stays up before switching to the New High Score panel")]
+    [SerializeField] private float newHighScoreDisplayDelay = 2f;
+
+    private bool achievedNewHighScoreThisRun = false;
 
     private int highScore = 0;
 
@@ -32,14 +42,12 @@ public class GameManager : MonoBehaviour
     private void OnEnable()
     {
         GameEvents.OnPlayerDied += HandlePlayerDied;
-        GameEvents.OnHighScoreUpdated += HandleHighScoreUpdated;
     }
 
     // Unsubscribe to avoid memeory leaks
     private void OnDisable()
     {
         GameEvents.OnPlayerDied -= HandlePlayerDied;
-        GameEvents.OnHighScoreUpdated -= HandleHighScoreUpdated;
     }
 
 
@@ -50,6 +58,12 @@ public class GameManager : MonoBehaviour
             restartButton.onClick.AddListener(RestartGame);
     
         }
+
+        if (playAgainButton != null)
+        {
+            playAgainButton.onClick.AddListener(RestartGame);
+        }
+
         // Function to allow loading previous highscore
         // PlayerPrefs.DeleteKey("HighScore");
         // PlayerPrefs.Save();
@@ -63,10 +77,9 @@ public class GameManager : MonoBehaviour
             gameOverPanel.SetActive(false);
         }
 
-        // Check if highscore message is available
-        if (newHighScoreMessage != null)
+        if (newHighScorePanel != null)
         {
-            newHighScoreMessage.SetActive(false);
+            newHighScorePanel.SetActive(false);
         }
 
         // Show Higscore on ui immediately
@@ -75,17 +88,13 @@ public class GameManager : MonoBehaviour
             highScoreText.text = ": " + highScore;
         }
 
-        if (highScoreValue != null)
-        {
-            highScoreValue.text = "" + highScore;
-        }
+        gameRunning = true;
 
     }
 
     void Update()
     {
         LoadHighScore();
-        LoadHighScoreValue();
     }
 
     void RestartGame()
@@ -116,12 +125,9 @@ public class GameManager : MonoBehaviour
         if (currentScore > highScore)
         {
             highScore = currentScore;
+            achievedNewHighScoreThisRun = true;
             PlayerPrefs.SetInt("HighScore", highScore);
             PlayerPrefs.Save();
-            if (newHighScoreMessage != null)
-            {
-                newHighScoreMessage.SetActive(true);
-            }
         }
     }
 
@@ -135,22 +141,53 @@ public class GameManager : MonoBehaviour
         gameRunning = false;
         gameOverPanel.SetActive(true);
 
+        // Freeze gameplay - without this, enemies keep spawning/moving and the wave
+        // timer keeps ticking behind the Game Over panel. RestartGame() sets this back
+        // to 1 when the player restarts.
+        Time.timeScale = 0f;
+
+        // Hide the normal restart button when a new high score was achieved - that flow
+        // continues into the dedicated New High Score panel instead, after a short delay.
+        if (restartButton != null)
+        {
+            restartButton.gameObject.SetActive(!achievedNewHighScoreThisRun);
+        }
+
         // Get last seave from wavemanager
         int finalWave = WaveManager.Instance != null ? WaveManager.Instance.GetCurrentWave() : 0;
         SaveLastWave(finalWave);
 
+        if (achievedNewHighScoreThisRun)
+        {
+            StartCoroutine(ShowNewHighScorePanelAfterDelay());
+        }
+
         GameEvents.GameOver();
+    }
+
+    private IEnumerator ShowNewHighScorePanelAfterDelay()
+    {
+        // Realtime rather than scaled time, in case Time.timeScale is ever 0 at this point
+        yield return new WaitForSecondsRealtime(newHighScoreDisplayDelay);
+
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(false);
+        }
+
+        if (newHighScorePanel != null)
+        {
+            newHighScorePanel.SetActive(true);
+        }
+
+        // highScoreValue lives under the New High Score panel, so this is the first
+        // moment it becomes visible - update it here rather than every frame during play
+        LoadHighScoreValue();
     }
 
     private void HandlePlayerDied()
     {
         GameOver();
-    }
-
-    private void HandleHighScoreUpdated(int score)
-    {
-        if (newHighScoreMessage != null)
-            newHighScoreMessage.SetActive(true);
     }
 
     public void SaveLastWave(int finalWave)

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 using System;
 
@@ -12,7 +13,9 @@ public class Player : MonoBehaviour
    public float moveSpeed;
 
    [Header("Health settings")]
-   [SerializeField] TextMeshProUGUI healthText;
+   [SerializeField] Slider healthBar; // fillAmount driven by currentHealth / maxHealth
+   [SerializeField] private float lowHealthThreshold = 30f; // health at/below this turns the bar red
+   private Image healthBarFill; // auto-found from healthBar's Fill Area/Fill child, no Inspector wiring needed
    float maxHealth = 100;
    float currentHealth;
 
@@ -88,6 +91,13 @@ public class Player : MonoBehaviour
         currentHealth = maxHealth;
         moveSpeed = baseMoveSpeed;
 
+        // Find the Slider's Fill image automatically - every Slider has one
+        // (Fill Area/Fill) by default, so no manual Inspector reference needed
+        if (healthBar != null && healthBar.fillRect != null)
+        {
+            healthBarFill = healthBar.fillRect.GetComponent<Image>();
+        }
+
         // setup audio
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
@@ -152,7 +162,6 @@ public class Player : MonoBehaviour
         anim.SetTrigger("Hit");
         currentHealth -= damage;
 
-        healthText.text = Mathf.Clamp(currentHealth, 0, maxHealth).ToString();
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         UpdateHealthUI();
 
@@ -208,12 +217,22 @@ public class Player : MonoBehaviour
         return dead;
     }
 
+    public float GetCurrentHealth() => currentHealth;
+    public float GetMaxHealth() => maxHealth;
+    public bool IsAtFullHealth() => currentHealth >= maxHealth;
+
 
     void UpdateHealthUI()
     {
-        if(healthText != null)
+        if (healthBar != null)
         {
-            healthText.text = ": " + currentHealth.ToString();
+            healthBar.maxValue = maxHealth;
+            healthBar.value = currentHealth;
+        }
+
+        if (healthBarFill != null)
+        {
+            healthBarFill.color = currentHealth <= lowHealthThreshold ? Color.red : Color.green;
         }
     }
 
@@ -230,6 +249,15 @@ public class Player : MonoBehaviour
         if(dead) return;
         currentScore += amount;
         UpdateScoreUI();
+    }
+
+    // Called at the start of every wave so the player begins each wave at full
+    // health regardless of damage taken in the previous wave.
+    public void ResetHealthToFull()
+    {
+        if (dead) return;
+        currentHealth = maxHealth;
+        UpdateHealthUI();
     }
 
     public void AddHealth(int amount)
@@ -282,8 +310,11 @@ public class Player : MonoBehaviour
                 moveSpeed = baseMoveSpeed + speedBonus;
                 break;
             case UpgradeSO.StatType.MaxHealth:
+                // Raises the cap itself. Current health rises with it by the same amount,
+                // so the upgrade doesn't act as a free full heal on top of the cap increase.
                 maxHealth += upgrade.value;
-                AddHealth((int)upgrade.value);
+                currentHealth = Mathf.Min(currentHealth + upgrade.value, maxHealth);
+                UpdateHealthUI();
                 break;
             default:
                 break;

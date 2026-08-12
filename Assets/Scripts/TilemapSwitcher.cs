@@ -6,6 +6,17 @@ public class TilemapSwitcher : MonoBehaviour
     [Header("Tile maps")]
     [SerializeField] private Tilemap[] tileMaps;
     private int currentIndex = 0;
+
+    private void Start()
+    {
+        // without this, no tilemap is shown until the first wave clears -
+        // UpdateTileMaps was previously only ever called reactively, never on load
+        if (tileMaps != null && tileMaps.Length > 0)
+        {
+            UpdateTileMaps(currentIndex);
+        }
+    }
+
     // subscribe to wave cleared broadcast
     private void OnEnable()
     {
@@ -23,6 +34,8 @@ public class TilemapSwitcher : MonoBehaviour
 
     private void NextTileMap()
     {
+        if (tileMaps == null || tileMaps.Length == 0) return;
+
         // move to the next tilemap. loop back to 0 when at the end
         currentIndex = (currentIndex + 1) % tileMaps.Length;
         UpdateTileMaps(currentIndex);

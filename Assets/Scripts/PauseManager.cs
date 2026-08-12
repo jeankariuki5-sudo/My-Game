@@ -18,6 +18,11 @@ public class PauseManager : MonoBehaviour
 
     public void Update()
     {
+        // Don't let Escape toggle pause once the game is over - a second press would
+        // call ResumeGame() and set Time.timeScale back to 1, un-freezing everything
+        // GameManager just froze behind the Game Over screen.
+        if (GameManager.Instance != null && !GameManager.Instance.isGameRunning()) return;
+
        if (Input.GetKeyDown(KeyCode.Escape))
         {
             TogglePaused();

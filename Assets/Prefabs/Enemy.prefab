@@ -112,15 +112,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce87855817949429f3233f2b16a01f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  anim: {fileID: 0}
+  anim: {fileID: 923401210285165759}
   distanceToCharge: 15
   isCharger: 0
+  isBoss: 0
+  isMegaboss: 0
   chargeSpeed: 12
   prepareTime: 2
+  maxChargeDuration: 2
   speed: 2
   stoppingDistance: 1.5
-  healthPickupPrefab: {fileID: 6439790440150837205, guid: b5632fe54edff8d469a50b8f304ef54f, type: 3}
+  sizeMultiplier: 1
+  maxHealth: 100
+  scoreValue: 10
   materialValue: 5
+  healthPickupPrefab: {fileID: 6439790440150837205, guid: b5632fe54edff8d469a50b8f304ef54f, type: 3}
   enemyHit: {fileID: 8300000, guid: 861889fa0da7b3b438ebcd9c42609861, type: 3}
 --- !u!95 &923401210285165759
 Animator:
@@ -415,7 +421,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8987557684774062561, guid: 40f9805377fb5e740bf5d1ebb32ca88c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Color: {r: 0.9622642, g: 0.040850822, b: 0.040850822, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

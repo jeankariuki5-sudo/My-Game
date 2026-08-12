@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeSO
   upgradeName: Health
   stat: 3
-  value: 20
-  cost: 10
+  value: 10
+  cost: 20
   costIncreaseAmount: 2
   purchasesBeforeIncrease: 3
   icon: {fileID: 0}

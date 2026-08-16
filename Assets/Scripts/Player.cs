@@ -19,6 +19,14 @@ public class Player : MonoBehaviour
    float maxHealth = 100;
    float currentHealth;
 
+   [Header("Mobile Controls")]
+   // Optional - leave empty for a desktop-only build. When assigned, movement uses
+   // whichever input is actually active: the joystick while it's being held, keyboard
+   // otherwise. This lets the same build support both without platform-specific branches,
+   // and keeps desktop behavior completely unchanged when no joystick is assigned at all.
+   [SerializeField] private VirtualJoystick joystick;
+   [SerializeField] private float joystickDeadzone = 0.15f;
+
 
    [Header("Score settings")]
    [SerializeField] TextMeshProUGUI scoreText;
@@ -126,10 +134,20 @@ public class Player : MonoBehaviour
             
             return;
         }
-        moveHorizontal = Input.GetAxisRaw("Horizontal");
-        moveVertical = Input.GetAxisRaw("Vertical");
+        // Use the joystick while it's actively being held; fall back to keyboard
+        // otherwise. On a desktop-only build with no joystick assigned, this behaves
+        // exactly as before - joystick is null, so it always falls through to keyboard.
+        if (joystick != null && joystick.InputDirection.sqrMagnitude > joystickDeadzone * joystickDeadzone)
+        {
+            movement = joystick.InputDirection.normalized;
+        }
+        else
+        {
+            moveHorizontal = Input.GetAxisRaw("Horizontal");
+            moveVertical = Input.GetAxisRaw("Vertical");
 
-        movement = new Vector2(moveHorizontal, moveVertical).normalized;
+            movement = new Vector2(moveHorizontal, moveVertical).normalized;
+        }
 
         // Enable animation switch
         anim.SetFloat("Velocity", movement.magnitude);

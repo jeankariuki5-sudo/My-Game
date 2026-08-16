@@ -6,8 +6,19 @@ public class PauseManager : MonoBehaviour
     [Header("Resume UI")]
     [SerializeField] private GameObject pauseMenuUI;
     public MonoBehaviour playerScript;
-    private bool lockCursorOnResume = true;
+    // This game has no mouse-based aiming, so nothing ever needs the cursor locked/hidden -
+    // resuming should just restore the same visible/unlocked state the game starts in.
+    // Left as a toggle in case that ever changes, but defaults to off so out-of-the-box
+    // behavior is consistent instead of only hiding the cursor after the first resume.
+    [SerializeField] private bool lockCursorOnResume = false;
     private bool isPaused = false;
+
+    [Header("Quit to Main Menu")]
+    // A serialized field instead of a method parameter - Unity's OnClick() Inspector
+    // wiring doesn't respect C# default parameter values, so a button wired to a
+    // string-argument method with the field left blank silently loads scene "" and
+    // does nothing. This can't fall into that trap.
+    [SerializeField] private string mainMenuSceneName = "MainMenu";
 
     public static PauseManager Instance;
 
@@ -63,7 +74,17 @@ public class PauseManager : MonoBehaviour
     public void ResumeGame()
     {
        isPaused = false;
-       Time.timeScale = 1f;
+
+        // Only actually unfreeze time if nothing else needs it frozen - the shop being
+        // open, or the game being over. Without this, resuming from pause while the shop
+        // is still open (or after death) would silently restart gameplay in the background
+        // even though the shop/game-over panel is still on screen.
+        bool shopStillOpen = ShopManager.Instance != null && ShopManager.Instance.IsShopOpen();
+        bool gameIsOver = GameManager.Instance != null && !GameManager.Instance.isGameRunning();
+        if (!shopStillOpen && !gameIsOver)
+        {
+            Time.timeScale = 1f;
+        }
 
         // Hide the pause menu
         if(pauseMenuUI != null)
@@ -77,17 +98,24 @@ public class PauseManager : MonoBehaviour
             playerScript.enabled = true;
         }
 
-        if (lockCursorOnResume)
+        // Only lock/hide the cursor if we're actually returning to gameplay - not if the
+        // shop or a game-over panel is still up and needs the cursor visible for clicking.
+        if (lockCursorOnResume && !shopStillOpen && !gameIsOver)
         {
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;
         }
+        else
+        {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
     }
 
-    public void QuitMainMenu(string sceneName = "MainMenu")
+    public void QuitMainMenu()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene(mainMenuSceneName);
     }
 
     public void QuitGame()

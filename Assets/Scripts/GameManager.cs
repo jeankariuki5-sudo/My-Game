@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
     [Tooltip("The high score number, shown on the New High Score panel itself")]
     [SerializeField] private TextMeshProUGUI highScoreValue;
     [Tooltip("How long the Game Over panel stays up before switching to the New High Score panel")]
-    [SerializeField] private float newHighScoreDisplayDelay = 2f;
+    [SerializeField] private float newHighScoreDisplayDelay = 5f;
 
     private bool achievedNewHighScoreThisRun = false;
 
@@ -183,6 +183,10 @@ public class GameManager : MonoBehaviour
         // highScoreValue lives under the New High Score panel, so this is the first
         // moment it becomes visible - update it here rather than every frame during play
         LoadHighScoreValue();
+
+        // Cue the high-score jingle exactly when the panel appears, not when the score
+        // was first recorded - those two moments are newHighScoreDisplayDelay apart
+        GameEvents.HighScoreUpdated(highScore);
     }
 
     private void HandlePlayerDied()

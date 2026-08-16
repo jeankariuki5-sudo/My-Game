@@ -17,18 +17,20 @@ public class TilemapSwitcher : MonoBehaviour
         }
     }
 
-    // subscribe to wave cleared broadcast
+    // subscribe to shop closed broadcast - switching here (rather than on wave cleared)
+    // means the shop opens over the CURRENT tilemap, and closing it reveals the new one,
+    // instead of the switch happening instantly under the "Wave Cleared!" text before the
+    // shop even opens.
     private void OnEnable()
     {
-        // listen to the wave cleared event
-        GameEvents.OnWaveCleared += NextTileMap;
+        GameEvents.OnShopClosed += NextTileMap;
 
     }
 
-    // unsubscribe to wave cleared broadcat
+    // unsubscribe to avoid leaks
     private void OnDisable()
     {
-        GameEvents.OnWaveCleared -= NextTileMap;
+        GameEvents.OnShopClosed -= NextTileMap;
 
     }
 

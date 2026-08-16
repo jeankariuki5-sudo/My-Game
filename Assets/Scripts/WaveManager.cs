@@ -249,7 +249,7 @@ public class WaveManager : MonoBehaviour
 
         {
 
-            Debug.Log("Player is dead -- cannot start new wave.");
+            Debug.Log("Player is dead – cannot start new wave.");
 
             return;
 

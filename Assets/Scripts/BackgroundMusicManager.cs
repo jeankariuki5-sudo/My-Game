@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class BackgroundMusicManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class BackgroundMusicManager : MonoBehaviour
    [SerializeField] private AudioClip mainMenuMusic;
    [SerializeField] private AudioClip gameplayMusic;
    [SerializeField] private AudioClip gameOverMusic;
+   [SerializeField] private AudioClip highScoreSound;
 
    [SerializeField] private float volume = 0.4f;
 
@@ -47,12 +49,14 @@ public class BackgroundMusicManager : MonoBehaviour
     {
         SceneManager.sceneLoaded += HandleSceneLoaded;
         GameEvents.OnGameOver += HandleGameOver;
+        GameEvents.OnHighScoreUpdated += HandleNewHighScore;
     }
 
     private void OnDisable()
     {
         SceneManager.sceneLoaded -= HandleSceneLoaded;
         GameEvents.OnGameOver -= HandleGameOver;
+        GameEvents.OnHighScoreUpdated -= HandleNewHighScore;
     }
 
     private void Start()
@@ -80,6 +84,40 @@ public class BackgroundMusicManager : MonoBehaviour
     private void HandleGameOver()
     {
         PlayClip(gameOverMusic);
+    }
+
+    // Fired the moment the New High Score panel actually becomes visible (see GameManager).
+    // Plays the jingle once, then loops the main menu track until the player clicks Play
+    // Again - at which point RestartGame() reloads GameScene and HandleSceneLoaded takes
+    // back over, switching to gameplayMusic like any other scene load.
+    private void HandleNewHighScore(int score)
+    {
+        if (audioSource == null) return;
+
+        audioSource.Stop();
+
+        if (highScoreSound != null)
+        {
+            StopAllCoroutines();
+            StartCoroutine(PlayHighScoreThenMenuMusic());
+        }
+        else
+        {
+            PlayClip(mainMenuMusic);
+        }
+    }
+
+    private IEnumerator PlayHighScoreThenMenuMusic()
+    {
+        audioSource.loop = false;
+        audioSource.clip = highScoreSound;
+        audioSource.Play();
+
+        // Realtime, since Time.timeScale is 0 while the high score panel is up
+        yield return new WaitForSecondsRealtime(highScoreSound.length);
+
+        audioSource.loop = true;
+        PlayClip(mainMenuMusic);
     }
 
     private void PlayClip(AudioClip clip)

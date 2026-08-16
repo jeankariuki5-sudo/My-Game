@@ -50,16 +50,13 @@ public class ShopManager : MonoBehaviour
     // On closed event listener
     private Action onShopClosed;
 
-    void FixedUpdate()
-    {
-        UpdateMaterialsUI();
-        UpdateGunCountUI();
-        UpdateGunButtonCosts();
-        UpdateUpgradeButtonCosts();
-    }
+    private bool isShopOpen = false;
 
-    private void Awake()
+    public static ShopManager Instance;
+
+    void Awake()
     {
+        if (Instance == null) Instance = this;
 
         // Ensure shop panelis hidden at start
         if (shopPanel != null)
@@ -75,36 +72,48 @@ public class ShopManager : MonoBehaviour
 
         if (cancelGunSlotSelectionButton != null)
         {
+            cancelGunSlotSelectionButton.onClick.RemoveAllListeners();
             cancelGunSlotSelectionButton.onClick.AddListener(CancelGunSlotSelection);
         }
 
         // Connect continue button
         if (continueButton != null)
         {
+            continueButton.onClick.RemoveAllListeners();
             continueButton.onClick.AddListener(CloseShop);
         }
 
         // Connect damage button
+        // RemoveAllListeners() first guards against a double-charge: if this button also
+        // has an entry in its own On Click() list in the Inspector (easy to add by
+        // accident while poking around), every click would fire BuyDamage() twice - two
+        // deductions computed a purchase-count apart, while CostText only ever shows the
+        // state after both fired. That mismatch between what's shown and what's charged
+        // is exactly what "cost and deduction don't match" looks like.
         if (damageButton != null)
         {
+            damageButton.onClick.RemoveAllListeners();
             damageButton.onClick.AddListener(BuyDamage);
         }
 
         // connect firerate button
         if (fireRateButton != null)
         {
+            fireRateButton.onClick.RemoveAllListeners();
             fireRateButton.onClick.AddListener(BuyFireRate);
         }
 
         // Connect speed button
         if (speedButton != null)
         {
+            speedButton.onClick.RemoveAllListeners();
             speedButton.onClick.AddListener(BuySpeed);
         }
 
         // connect health button
         if (healthButton != null)
         {
+            healthButton.onClick.RemoveAllListeners();
             healthButton.onClick.AddListener(BuyHealth);
         }
 
@@ -114,6 +123,7 @@ public class ShopManager : MonoBehaviour
             int index = i;
             if (buyGunButtons[index] != null)
             {
+                buyGunButtons[index].onClick.RemoveAllListeners();
                 buyGunButtons[index].onClick.AddListener(() => BuySpecificGun(index));
             }
         }
@@ -128,6 +138,14 @@ public class ShopManager : MonoBehaviour
         audioSource.playOnAwake = false;
 
 
+    }
+
+    void FixedUpdate()
+    {
+        UpdateMaterialsUI();
+        UpdateGunCountUI();
+        UpdateGunButtonCosts();
+        UpdateUpgradeButtonCosts();
     }
 
 
@@ -152,6 +170,8 @@ public class ShopManager : MonoBehaviour
             shopPanel.SetActive(true);
         }
 
+        isShopOpen = true;
+
         // pause the game
         Time.timeScale = 0f;
 
@@ -160,7 +180,17 @@ public class ShopManager : MonoBehaviour
         GameEvents.ShopOpened();
 
 
+        // Refresh every shop display immediately - can't rely on FixedUpdate() for this,
+        // since Time.timeScale = 0f above means FixedUpdate effectively stops firing while
+        // the shop is open. Without this, CostText/etc. would show whatever was left over
+        // from the last time the shop was open (or nothing, the very first time), while the
+        // actual cost charged on purchase is always computed live and correct - a mismatch
+        // between what's displayed and what gets deducted.
         UpdateMaterialsUI();
+        UpdateGunCountUI();
+        UpdateGunButtonCosts();
+        UpdateUpgradeButtonCosts();
+
         Debug.Log("shop opened");
     }
 
@@ -172,19 +202,27 @@ public class ShopManager : MonoBehaviour
             shopPanel.SetActive(false);
         }
 
+        isShopOpen = false;
+
         if (popSound != null && audioSource != null)
         {
             audioSource.PlayOneShot(popSound);
         }
 
-        // Resume Game
-        Time.timeScale = 1f;
+        // Resume Game - unless the pause menu is also up, in which case leave it frozen;
+        // PauseManager's own ResumeGame() will unfreeze it once the player actually resumes
+        if (PauseManager.Instance == null || !PauseManager.Instance.IsPaused())
+        {
+            Time.timeScale = 1f;
+        }
 
         // /notify wavemanager to start countdown
         onShopClosed?.Invoke();
         // Booadcast tha shop is closed
         GameEvents.ShopClosed();
     }
+
+    public bool IsShopOpen() => isShopOpen;
 
     public void BuyDamage()
     {
@@ -271,29 +309,48 @@ public class ShopManager : MonoBehaviour
         return upgrade.cost + increments * upgrade.costIncreaseAmount;
     }
 
-    // Refreshes the cost shown on each upgrade button's label
+    // Refreshes the cost shown on each upgrade button's cost display (a child "CostText"
+    // object, not the button's own label - keeps your custom button styling untouched)
     private void UpdateUpgradeButtonCosts()
     {
-        UpdateSingleUpgradeButtonLabel(damageButton, UpgradeSO.StatType.Damage);
-        UpdateSingleUpgradeButtonLabel(fireRateButton, UpgradeSO.StatType.FireRate);
-        UpdateSingleUpgradeButtonLabel(speedButton, UpgradeSO.StatType.Speed);
-        UpdateSingleUpgradeButtonLabel(healthButton, UpgradeSO.StatType.MaxHealth);
+        UpdateSingleUpgradeCostText(damageButton, UpgradeSO.StatType.Damage);
+        UpdateSingleUpgradeCostText(fireRateButton, UpgradeSO.StatType.FireRate);
+        UpdateSingleUpgradeCostText(speedButton, UpgradeSO.StatType.Speed);
+        UpdateSingleUpgradeCostText(healthButton, UpgradeSO.StatType.MaxHealth);
     }
 
-    private void UpdateSingleUpgradeButtonLabel(Button button, UpgradeSO.StatType stat)
+    private void UpdateSingleUpgradeCostText(Button button, UpgradeSO.StatType stat)
     {
         if (button == null) return;
 
         UpgradeSO upgrade = GetUpgradeByStat(stat);
         if (upgrade == null) return;
 
-        // The Health upgrade only heals (doesn't raise the cap), so buying it while already
-        // at full health would spend materials for nothing - disable it instead.
-        if (stat == UpgradeSO.StatType.MaxHealth)
+        // Searches all descendants, not just direct children - CostText can live
+        // nested inside another child object (e.g. under an Image), not only directly
+        // under the button itself
+        Transform costTransform = FindDeepChild(button.transform, "CostText");
+        if (costTransform == null) return;
+
+        TextMeshProUGUI costText = costTransform.GetComponent<TextMeshProUGUI>();
+        if (costText == null) return;
+
+        costText.text = "" + GetCurrentUpgradeCost(upgrade);
+    }
+
+    // Recursively searches a transform's entire hierarchy (children, grandchildren, etc.)
+    // for the first child whose name matches, unlike Transform.Find which only checks
+    // direct children.
+    private Transform FindDeepChild(Transform parent, string name)
+    {
+        foreach (Transform child in parent)
         {
-            bool atFullHealth = Player.Instance != null && Player.Instance.IsAtFullHealth();
-            button.interactable = !atFullHealth;
+            if (child.name == name) return child;
+
+            Transform found = FindDeepChild(child, name);
+            if (found != null) return found;
         }
+        return null;
     }
 
     // Buy specific gun  by index(0, 1, 2, 3)
